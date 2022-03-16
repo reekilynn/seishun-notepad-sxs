@@ -1,1 +1,0 @@
-# seishun-notepad-sxs
