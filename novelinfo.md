@@ -145,6 +145,10 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 * Summer from 菊次郎的夏天
 
 > 原定于学园祭上演奏的Encore，然而……
+> 
+> <font color="white">被政树改成了小调（c minor）并调整了节奏，在中间插入了特定乐曲的动机。</font>
+> 
+> <font color="white">追加的动机被政树描述为写作“牢不可破之物”，但读作“不攻自破之物”的存在。</font>
 
 * Shostakovich Symphony No.10 in e minor, movement 2
 
