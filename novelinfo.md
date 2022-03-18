@@ -136,3 +136,16 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 
 自拍+推：Visogram（Facebook+Instagram➡️Face+gram➡️Viso/it+gram）
 
+#### 音乐
+
+* Rachmaninoff Piano Concerto No.2 in c minor
+
+> 学园祭上的演奏曲。
+
+* Summer from 菊次郎的夏天
+
+> 原定于学园祭上演奏的Encore，然而……
+
+* Shostakovich Symphony No.10 in e minor, movement 2
+
+> 政树选定的管弦乐部参赛曲目。心中的意象为《黑铁皇帝》。
