@@ -283,7 +283,7 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 * 第三章：寻找失落之物的多萝西（Dorosi）
 
   * ……
-  * sa famille
+  * sa Famille
   * ……
   * 誕生日
   * sie hat, aber ich habe nicht
@@ -304,5 +304,6 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * Encore 極 -Maestoso alla marcia-
   * 破れないもの（自ら崩壊したもの）
   * 母（Rochester）と子（Bertha）
+  * Rachat
   * ……
   * 姉妹のように（Joan and Olivia）
