@@ -1,4 +1,4 @@
-## 继女（Jane）与母（Rochester）与子（Bertha）
+## 母（Rochester）与子（Bertha）
 
 side：shizuku
 
