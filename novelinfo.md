@@ -265,10 +265,20 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 
 #### 各章标题
 
-第一章：艾格尼丝（Agnes）与黑暗中的大卫（David）
+* 第一章：艾格尼丝（Agnes）与黑暗中的大卫（David）
 
-第二章：度过悠长假期的安妮（Ann）
+* 第二章：度过悠长假期的安妮（Ann）
 
-第三章：寻找失落之物的多萝西（Dorosi）
+* 第三章：寻找失落之物的多萝西（Dorosi）
 
-第四章：站在桑菲尔德庄园门前的简（Jane）
+* 第四章：站在桑菲尔德庄园门前的简（Jane）
+
+  * Tear
+  * 过去的故事（Thornfield）
+  * zerreißen
+  * Mvmt.I 縄 -Moderato-
+  * Mvmt.II 水 -Adagio sostenuto-
+  * Mvmt.III 刃 -Allegro scherzando-
+  * Encore 極 -Maestoso alla marcia-
+  * 破れないもの（自ら崩壊したもの）
+  * 母（Rochester）と子（Bertha）
