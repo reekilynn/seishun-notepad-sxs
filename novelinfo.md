@@ -267,15 +267,23 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 
 * 第一章：艾格尼丝（Agnes）与黑暗中的大卫（David）
 
+  * ……
+  * 『ただいま』も『おかえり』もない
+  * ……
   * Declaration d'amour
+  * ……
   * seine Ankwort
 
 * 第二章：度过悠长假期的安妮（Ann）
 
+  * ……
   * Joe Bradley（Gregory Peck）
+  * ……
 
 * 第三章：寻找失落之物的多萝西（Dorosi）
 
+  * ……
+  * 暴露
   * 本物（Shirley Temple）と偽物（Judy Garland）
   * 虹の彼方に（Over the Rainbow）
 
