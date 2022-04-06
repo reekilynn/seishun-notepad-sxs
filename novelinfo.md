@@ -284,6 +284,7 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 
   * ……
   * 誕生日
+  * ……
   * 暴露
   * 本物（Shirley Temple）と偽物（Judy Garland）
   * 虹の彼方に（Over the Rainbow）
