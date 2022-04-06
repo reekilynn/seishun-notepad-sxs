@@ -297,6 +297,7 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * 女王（Asakura Shizuku）
   * ……
   * Tear
+  * "Antoinetta"
   * 過去（Thornfield）の話
   * zerreißen
   * Mvmt.I 縄 -Moderato-
@@ -306,5 +307,4 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * 破れないもの（自ら崩壊したもの）
   * 母（Rochester）と子（Bertha）
   * Rachat
-  * ……
   * 姉弟のように（Joan and Olivia）
