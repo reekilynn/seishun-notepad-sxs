@@ -268,8 +268,10 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 * 第一章：艾格尼丝（Agnes）与黑暗中的大卫（David）
 
   * ……
-  * 『ただいま』も『おかえり』もない
+  * 『ただいま』も『おかえり』もない場所
   * ……
+  * 二人とも、この家が続くことを望んでいない。
+  * Hauptbahnhof, auf Gleis 3.
   * Declaration d'amour
   * ……
   * seine Ankwort
@@ -287,7 +289,7 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * sa Famille
   * ……
   * 誕生日
-  * sie hat, aber ich habe nicht
+  * sie hat, aber ich habe nicht.
   * 暴露
   * 本物（Shirley Temple）と偽物（Judy Garland）
   * 虹の彼方に（Over the Rainbow）
