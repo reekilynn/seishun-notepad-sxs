@@ -267,12 +267,21 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 
 * 第一章：艾格尼丝（Agnes）与黑暗中的大卫（David）
 
+  * Declaration d'amour
+  * seine Ankwort
+
 * 第二章：度过悠长假期的安妮（Ann）
+
+  * Joe Bradley（Gregory Peck）
 
 * 第三章：寻找失落之物的多萝西（Dorosi）
 
+  * 真物（Shirley Temple）与伪物（Judy Garland）
+
 * 第四章：站在桑菲尔德庄园门前的简（Jane）
 
+  * 女王（Asakura Shizuku）
+  * ……
   * Tear
   * 過去（Thornfield）の話
   * zerreißen
@@ -282,3 +291,5 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * Encore 極 -Maestoso alla marcia-
   * 破れないもの（自ら崩壊したもの）
   * 母（Rochester）と子（Bertha）
+  * ……
+  * 姉妹のように（Joan and Olivia）
