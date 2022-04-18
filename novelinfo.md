@@ -158,11 +158,11 @@
 |:---|---:|
 |a.masaki|9.19.xx|
 |w.miyuki|3.9.xx|
-|m.masaki|6.30.xx|
+|m.masaki|7.10.xx|
 |k.chika|8.16.xx+2|
 |a.shizuku|5.27.xx-1|
-|i.fumihiko||
-|k.toshio||
+|i.fumihiko|4.15.xx|
+|k.toshio|6.12.xx|
 |s.takuru||
 
 
