@@ -316,9 +316,9 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 > 
 > <font color=white>追加的动机被政树描述为写作“牢不可破之物”，但读作“不攻自破之物”的存在。</font>
 
-* Shostakovich Symphony No.10 in e minor, movement 2
+* Shostakovich Symphony No.10 in e minor
 
-> 政树选定的管弦乐部参赛曲目。心中的意象为《黑铁皇帝》。
+> 政树于二年级为管弦乐部选定的文化祭演奏曲目。在政树眼中，这一交响曲意味着“挣脱诅咒”。
 
 * Tchaikovsky Lullaby （arr. Rachmaninoff）
 
