@@ -299,10 +299,10 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 
 * 第二章卡拉OK众人唱的歌：
 
- * 入江文彦：星野源《恋》
- * 工藤俊雄：福山雅治《零 -zero-》
- * 雨宫政树：May'n+中岛爱《Lion》/米津玄师《lemon》/秦基博《Rain》/宇多田光《樱流》
- * 渡边美雪：宇多田光《Beautiful World》（雨宫政树演唱）
+  * 入江文彦：星野源《恋》
+  * 工藤俊雄：福山雅治《零 -zero-》、
+  * 雨宫政树：May'n+中岛爱《Lion》/米津玄师《lemon》/秦基博《Rain》/宇多田光《樱流》
+  * 渡边美雪：宇多田光《Beautiful World》（雨宫政树演唱）
 
 * Rachmaninoff Piano Concerto No.2 in c minor
 
