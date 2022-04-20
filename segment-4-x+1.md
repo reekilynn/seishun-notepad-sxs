@@ -48,6 +48,22 @@ side：美雪
 
 “雨宫这家伙……想干什么啊。从‘激情’变成‘沉痛’……氛围整个都变掉了。”
 
+【MSK：#1 xx-xx, Ob./Clar. → C.ingl./Clar., 】
+
+【MSK：#1 xx-xx, Clar./Fag./Viola, espressivo → 】
+
+【MSK：#1 xx-xx, Viol., 】
+
+【MSK：#1 xx-xx, Tr./Cor. 】
+
+【MSK：#1 
+
+【MSK：#1 xx-xx Cor.】
+
+【MSK：#3 xx-xx Archi → Pfte.】
+
+
+
 ***
 
 手机突然震动了数次。
