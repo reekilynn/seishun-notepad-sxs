@@ -91,3 +91,9 @@
 * Tchaikovsky Lullaby （arr. Rachmaninoff）
 
 > 美雪初次见到政树时，政树弹奏的曲目之一。拉赫玛尼诺夫最后几年的创作之一。
+
+#### 花语
+
+http://horti.jp/23545
+
+http://hanaknokotoba.com/marigold
