@@ -96,4 +96,4 @@
 
 http://horti.jp/23545
 
-http://hanaknokotoba.com/marigold
+http://hananokotoba.com/marigold
