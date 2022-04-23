@@ -327,10 +327,18 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
 * 第四章：站在桑菲尔德庄园门前的简（Jane）
 
   * 女王（Asakura Shizuku）
+  * 義母と向き合って（いばらの道）
+  * 駆け引き 1
   * ……
+  * 生徒会
+  * 謎めいたノートブック（Thornfield）
+  * "Jane" and "Edward" and "St. John"
+  * ……
+  * 駆け引き 2
   * "Antoinetta"
-  * 生徒会（Thornfield）
-  * 
+  * ……
+  * ……
+  * ……
   * 招待
   * 四角の秘密
   * 最愛の娘（Jane）へ
