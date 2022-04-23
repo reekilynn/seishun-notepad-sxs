@@ -233,6 +233,8 @@
 
 天道学园的OB，比隆子高一级的前辈，连续两年任学生会长。
 
+担任学生会长期间，曾与隆子秘密交往，两人以密文（勇的密文为五十音图形式，隆子的密文为iroha韵形式）互相通信（记录通信内容的笔记本存储于学生会室的书柜中）。
+
 第四章中，与隆子再婚。
 
 #### 朝仓遥（Asakura Haruka）
@@ -327,9 +329,14 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * 女王（Asakura Shizuku）
   * ……
   * "Antoinetta"
-  * 過去（Thornfield）の話
+  * 
   * Tear
+  * 過去（Thornfield）の話
+  * ……
   * zerreißen
+  * 文化祭前日
+  * Où êtes-vous?
+  * "Das Rad der Morgenröte"
   * Mvmt.I 縄 -Moderato-
   * Mvmt.II 水 -Adagio sostenuto-
   * Mvmt.III 刃 -Allegro scherzando-
