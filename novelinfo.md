@@ -345,7 +345,7 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * Tear
   * zerreißen
   * 文化祭前日
-  * Où êtes-vous?
+  * Où êtes-tu?
   * "Das Rad der Morgenröte"
   * Mvmt.I 縄 -Moderato-
   * Mvmt.II 水 -Adagio sostenuto-
