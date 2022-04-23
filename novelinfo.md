@@ -329,10 +329,12 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * 女王（Asakura Shizuku）
   * ……
   * "Antoinetta"
+  * 生徒会（Thornfield）
   * 
+  * 招待
+  * 四角の秘密
+  * 最愛の娘（Jane）へ
   * Tear
-  * 過去（Thornfield）の話
-  * ……
   * zerreißen
   * 文化祭前日
   * Où êtes-vous?
@@ -343,5 +345,6 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * Encore 極 -Maestoso alla marcia-
   * 破れないもの（自ら崩壊したもの）
   * 母（Rochester）と子（Bertha）
-  * Rachat
+  * Désespoir et Rédemption
+  * 朝倉勇（おとうさん）との対話
   * 姉弟のように（Joan and Olivia）
