@@ -350,8 +350,8 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * Mvmt.I 縄 -Moderato-
   * Mvmt.II 水 -Adagio sostenuto-
   * Mvmt.III 刃 -Allegro scherzando-
-  * Encore 極 -Maestoso alla marcia-
-  * Désespoir et Rédemption
+  * Encore: 極 -Maestoso alla marcia-
+  * Extra Encore: Désespoir et Rédemption
   * 母（Rochester）と子（Bertha）
   * 朝倉勇（おとうさん）との対話
   * 姉弟のように（Joan and Olivia）
