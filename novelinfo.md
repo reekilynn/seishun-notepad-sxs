@@ -294,6 +294,9 @@ xx市共有四条轨道交通线路，分别指向xx大学和另外三个主要�
   * ……
   * 『ただいま』も『おかえり』もない場所
   * ……
+  * 高熱
+  * 空っぽ
+  * ……
   * Nur ich hoffe, dass die Familie weiterbestehen kann.
   * Hauptbahnhof, auf Gleis 3.
   * Declaration d'amour
