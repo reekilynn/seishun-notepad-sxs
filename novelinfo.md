@@ -4,7 +4,7 @@
 
 （以下为初始资料）
 
-#### 雨宫政树（Amamiya Masaki
+#### 雨宫政树（Amamiya Masaki）
 
 身高162cm 体重42kg
 
