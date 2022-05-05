@@ -163,6 +163,31 @@
 |k.toshio|6.12.xx|
 |s.takuru||
 
+参考年龄表：
+
+|Chara|Start|School (1st)|Uwasa|Main Story|
+|:----|----:|----:|----:|----:|
+|amamiya masaki|x|x|2|15|
+|watanabe miyuki|x|x|3|16|
+|moriyama masaki|x|x|2|15|
+|irie fumihiko|x|x|2|15|
+|kudou toshio|x|x|2|15|
+|kashiwabara chika|x|x|0|13|
+|asakura shizuku|x|x|3|16|
+|kamachi yui|x|x|x|12|
+|sakagami takuru|x|x|1|14|
+|watanabe souichirou|13|18|30|43|
+|watanabe eri|13|18|30|43|
+|kamachi takako|10|15|27|40|
+|amamiya keisuke|10|15|27|40|
+|asakura isami|10|15|27|40|
+|asakura haruka|8|13|25|38/d|
+|kashiwabara kotomi|9|14|26|39|
+|kudou kaisaku|6|11|23|36|
+|kudou ayame|6|11|23|36|
+|takako's cousin|22|27|39|52|
+|yui's mother (takako's niece)|0|5|17|30|
+|irie noriko|30|35|47|60|
 
 
 ### 其他角色
@@ -190,16 +215,6 @@
 政树在面对她的时候会产生难以言表的不适应，只能以最低限度的言语对她的内容进行回复（不论是在现实中还是通过通讯程序）。
 
 隆子幼年时父母相继过世，被表姐一家收养并改为现在的姓。表姐的女儿在学校中曾有过一些不好的传闻（与男友私奔，怀孕后发现男友背地里与多名女性交往（互不知情）且吸食觉醒剂，又逃回家中并生下女儿），这一传言也是隆子与啓介关系恶化的源头之一（另一点则是隆子在婚后仍与朝仓勇有密会的事情并被啓介发现决定性证据）。
-
-参考年龄表：
-
-|Chara|Start|Uwasa|Divorce|
-|:----|----:|----:|----:|
-|a.masaki|x|2|15|
-|k.takako|10|27|39|
-|takako's cousin|22|39|51|
-|takako's niece|0|17|29|
-|takako's grandniece|x|0|12|
 
 #### 渡边宗一郎 （Watanabe Souichirou）
 
