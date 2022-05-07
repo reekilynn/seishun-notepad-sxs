@@ -167,15 +167,15 @@
 
 |Chara|Start|School (1st)|Uwasa|Main Story|
 |:----|----:|----:|----:|----:|
-|amamiya masaki|x|x|2|15|
-|watanabe miyuki|x|x|3|16|
-|moriyama masaki|x|x|2|15|
-|irie fumihiko|x|x|2|15|
-|kudou toshio|x|x|2|15|
-|kashiwabara chika|x|x|0|13|
-|asakura shizuku|x|x|3|16|
-|kamachi yui|x|x|x|12|
-|sakagami takuru|x|x|1|14|
+|amamiya masaki|x|x|2|15 (H1)|
+|watanabe miyuki|x|x|3|16 (H2)|
+|moriyama masaki|x|x|2|15 (H1)|
+|irie fumihiko|x|x|2|15 (H1)|
+|kudou toshio|x|x|2|15 (H1)|
+|kashiwabara chika|x|x|0|13 (M2)|
+|asakura shizuku|x|x|3|16 (H2)|
+|kamachi yui|x|x|x|12 (M1)|
+|sakagami takuru|x|x|1|14 (M3)|
 |watanabe souichirou|13|18|30|43|
 |watanabe eri|13|18|30|43|
 |kamachi takako|10|15|27|40|
