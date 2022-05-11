@@ -4,7 +4,7 @@
 
 按BI地图旋转180度后重新排布。
 
-|方位|原名|Neta地名|重拼写|
+|方位 (实际方位)|原名|Neta地名|重拼写|
 |:--|--:|--:|--:|
 |Sudost (Nordwest)||||
 ||Jöllenbeck|Charkiv|Kirvach|
