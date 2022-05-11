@@ -1,5 +1,24 @@
 ## Reference Data
 
+#### 市区名称考据
+
+按BI地图旋转180度后重新排布。
+
+|方位|原名|Neta地名|重拼写|
+|:--|--:|--:|--:|
+|Sudost (Nordwest)||||
+||Jöllenbeck|Charkiv|Kirvach|
+||Dornberg|Kiev|Viek|
+||Schildesche|Lemberg|Gerblem|
+|Nordost (Sudwest)|||
+||Gadderbaum|Hrodna|Nahrod|
+||Brackwede|Minsk|Knims|
+|Nordwest (Sudost)|||
+||Senne|Wilna|Nawil|
+||Sennestadt|Kauen|Känu|
+|Sudwest (Nordost)|||
+||Heepen|Reval|Varel|
+
 #### 塔罗牌
 
 |序号|名称|正位|逆位|
