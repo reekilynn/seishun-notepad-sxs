@@ -16,6 +16,8 @@
 |Nordwest (Sudost)|||
 ||Senne|Wilna|Nawil|
 ||Sennestadt|Kauen|Känu|
+|West (Ost)|||
+||Stieghorst|Riga|Gair|
 |Sudwest (Nordost)|||
 ||Heepen|Reval|Varel|
 
