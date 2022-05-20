@@ -5,6 +5,10 @@
 ### 一章 闇の中のデイヴィッドとそのアグニス
 
 * Hejmo de Silento
+* Klaso 1-A
+* Enira Ceremonio
+* Renkonto kun Adzhulo
+* ……
 * ……
 * alta Febro
 * ……
