@@ -8,6 +8,7 @@
 * Klaso 1-A
 * Enira Ceremonio
 * Renkonto kun Adzhulo
+* Dormotchambro
 * ……
 * ……
 * alta Febro
