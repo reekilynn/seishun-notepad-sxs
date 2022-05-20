@@ -139,7 +139,7 @@ http://www.nns.ne.jp/~asakawa/asa/fumen_read/M_List.html
 
 |角色名|来源|
 |:-----|:------|
-|雨宮政樹|雨宮美琴@アンナチュラル / 雨宮優子@ef|
+|雨宮政樹|雨宮美琴@アンナチュラル / 雨宮優子@ef / Actor: 菅田将暉|
 |渡邊みゆき|Actress: 杏（渡辺 杏）|
 |森山真咲|森山みくり@逃げるは恥だが役に立つ|
 |入江文彦|入江直樹@イタズラなKiss|
@@ -149,3 +149,13 @@ http://www.nns.ne.jp/~asakawa/asa/fumen_read/M_List.html
 |蒲池 唯|Actress: 新垣結衣|
 |坂上拓留|宮代拓留@Chaos;Child|
 |蒲池隆子|蒲池法子（松田聖子） / 松たか子|
+
+#### 杂项
+
+|zh|en|eo|
+|-:|-:|-:|
+|起|introduction|enkonduko|
+|承|elucidation|klarigo|
+|转|transition|transiro|
+|结|summarization|resumo|
+
