@@ -62,8 +62,7 @@
 * Biso: -Maestoso alla marcia-
 * Ekstra Biso: "La Rado de la Tagidzho" -Elatcheto-
 * Petrelo en Shtormo
-* Patrino kaj Filo (Ro
-eter & Bertha)
+* Patrino kaj Filo (Rochester & Bertha)
 * Dialogo kun Isami Asakura
 * kiel Gefratoj (Joan & Olivia)
 
