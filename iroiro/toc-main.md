@@ -42,18 +42,22 @@
 
 ### 四章 ソーンフィールド邸と向き合うジェーン
 
+* **Thornfield: Enkonduko**
 * Redzhino (Shizuku Asakura)
 * alfrontas novan Patrinon (Vojo de Dorno)
 * trompa Taktiko 1
 * ……
 * Studenta Konsilio
-* mistera Kajero (Thornfield)
+* mistera Kajero
 * "Jane" kaj "Edward"
+* ……
+* **Thornfield: Klarigo**
 * ……
 * trompa Taktiko 2
 * "Antoinetta"
 * ……
 * ……
+* **Thornfield: Transiro**
 * ……
 * Kara Filino
 * shia Larmo kaj lia Decido
@@ -68,6 +72,6 @@
 * Ekstra Biso: "La Rado de la Tagidzho" -Elatcheto-
 * Petrelo en Shtormo
 * Patrino kaj Filo (Rochester & Bertha)
-* Dialogo kun Isami Asakura
+* **Thornfield: Resumo**
 * kiel Gefratoj (Joan & Olivia)
 
