@@ -1,5 +1,5 @@
 
-### ***Tchi tio estas amrakonto nomata "Espero".***
+### ***Tchi tio estas Amrakonto nomata "Espero".***
 
 ***
 
