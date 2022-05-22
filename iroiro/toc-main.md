@@ -75,3 +75,7 @@
 * **Thornfield: Resumo**
 * kiel Gefratoj (Joan & Olivia)
 
+### Epilogo
+
+* Hejmo de Silento -nova Komenco-
+* Finalo: Karaj miaj Familioj
