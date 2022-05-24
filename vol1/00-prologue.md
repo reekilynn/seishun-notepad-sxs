@@ -1,9 +1,4 @@
-
-### ***Tchi tio estas Amrakonto nomata "Espero".***
-
-***
-
-## Prologue
+## Prologo: Tchi tio estas Amrakonto nomata "Espero".
 
 致××：
 
