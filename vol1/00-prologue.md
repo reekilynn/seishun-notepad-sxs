@@ -1,3 +1,5 @@
+# この天才（ぶきよう）な僕（わたし）に、恋してください。
+
 ## Prologo: Tchi tio estas Amrakonto nomata "Espero".
 
 致××：
