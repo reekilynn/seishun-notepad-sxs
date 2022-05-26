@@ -75,7 +75,14 @@
 * **Thornfield: Resumo**
 * kiel Gefratoj (Joan & Olivia)
 
-### Epilogo
+……
 
-* Hejmo de Silento -nova Komenco-
+……
+
+……
+
+
+### 最終章 グランド・ブダペスト・ホテルから去るトム
+
+* Epilogo: Hejmo de Silento -nova Komenco-
 * Finalo: Karaj miaj Familioj
