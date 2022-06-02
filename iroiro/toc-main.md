@@ -6,7 +6,7 @@
 
 ~~闇の中のデイヴィッドとそのアグニス~~
 
-* Hejmo de Silento
+* Hejmo de Silento: "Bagne de Toulon"
 * Klaso 1-A
 * Enira Ceremonio
 * Renkonto kun Adzhulo
@@ -86,5 +86,5 @@
 
 ### 最終章 グランド・ブダペスト・ホテルから去るトム
 
-* Epilogo: Hejmo de Silento -nova Komenco-
+* Epilogo: Hejmo de Silento: nova Komenco
 * Finalo: Karaj miaj Familioj
