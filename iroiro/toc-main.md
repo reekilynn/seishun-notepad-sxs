@@ -6,7 +6,7 @@
 
 ~~闇の中のデイヴィッドとそのアグニス~~
 
-* Hejmo de Silento: «Bagne de Toulon»
+* Hejmo de Silento : « Bagne de Toulon »
 * Klaso 1-A
 * Enira Ceremonio
 * Renkonto kun Adzhulo
