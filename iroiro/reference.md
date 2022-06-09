@@ -1,5 +1,22 @@
 ## Reference Data
 
+### 修学旅行计划
+
+* Day0 飞机出发
+* Day1上午 到达Oslo，Check In
+* Day1下午 Oslo市内旅游
+* Day2上午 Check Out，搭乘火车转大巴前往Flam（火车包含露天层）
+* Day2下午 到达Flam，Check In
+* Day3中午 Check Out，搭乘游船前往Bergen
+* Day3傍晚 到达Bergen，Check In
+* Day4 Bergen市内旅游
+* Day5上午 Check Out，搭乘大巴前往Stavanger
+* Day5下午 到达Stavanger，Check In
+* Day6 攀爬Preikestolen（布道石）
+* Day7上午 Check Out，搭乘飞机前往Oslo
+* Day7下午 在Oslo搭乘飞机返回
+* Day8 飞机落地
+
 ### Esperanto特殊字母转写
 
 |原字母|发音|转写字母|
