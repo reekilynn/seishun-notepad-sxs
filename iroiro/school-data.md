@@ -2,8 +2,8 @@
 
 ### 概述
 
-* 私立天道大学附属学校（学校名称缩写为UTAM）位于天道市轨道交通4号线（通称天道大学线）的倒数第二站（终点站为天道大学）。
-    * 车站标牌上的名称为Universität Tendou angeschlossene Mittelschule。
+* 私立天道大学附属学校（学校名称缩写为UTAS）位于天道市轨道交通4号线（通称天道大学线）的倒数第二站（终点站为天道大学）。
+    * 车站标牌上的名称为Universität Tendou angeschlossene Schule。
  
 * 校园原为天道大学的旧校区（天道大学搬迁至新校区的同时开设了本学校）。
 
