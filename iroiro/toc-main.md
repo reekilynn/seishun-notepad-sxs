@@ -6,6 +6,7 @@
 
 ~~闇の中のデイヴィッドとそのアグニス~~
 
+* Prologo: Tchi tio estas Amrakonto nomata "Espero".
 * #01 Hejmo de Silento: «Bagne de Toulon»
 * #02 Oficejo de Rektoro kaj Klaso 1-A
 * #03 La cashita Chambro
