@@ -6,10 +6,10 @@
 
 ~~闇の中のデイヴィッドとそのアグニス~~
 
-* Hejmo de Silento: «Bagne de Toulon»
-* Klaso 1-A
-* Enira Ceremonio
-* Renkonto kun Adzhulo
+* #01 Hejmo de Silento: «Bagne de Toulon»
+* #02 Oficejo de Rektoro kaj Klaso 1-A
+* #03 La cashita Chambro
+* #04 Renkonto
 * Dormotchambro
 * ……
 * ……
