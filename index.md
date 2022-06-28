@@ -10,7 +10,7 @@
 
 ## Enhavtabelo
 
-### Chapitro-01 市長と捜査官と緑の帽子を被る男
+### Chapitro.01 市長と捜査官と緑の帽子を被る男
 
 * [Prologo: Tchi tio estas Amrakonto nomata "Espero".](vol1/00-prologue.md)
 * [#01 Hejmo de Silento: «Bagne de Toulon»](vol1/01-01.md)
