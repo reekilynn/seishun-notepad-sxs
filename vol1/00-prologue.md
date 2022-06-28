@@ -1,13 +1,3 @@
-# この天才な僕に、恋してください。
-
-***
-
-この不器用なわたしに、恋してください。
-
-——きりん
-
-***
-
 ## Prologo: Tchi tio estas Amrakonto nomata "Espero".
 
 致×××：
