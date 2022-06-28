@@ -1,6 +1,17 @@
-# Seishun Notepad SxS
+# この天才な僕に、恋してください。
 
-## 正文链接
+***
 
-## 角色及设定
+この不器用なわたしに、恋してください。
 
+——きりん
+
+***
+
+## Table of Contents
+
+### 一章 市長と捜査官と緑の帽子を被る男
+
+* [Prologo: Tchi tio estas Amrakonto nomata "Espero".](vol1/00-prologue.md)
+* [#01 Hejmo de Silento: «Bagne de Toulon»](vol1/01-01.md)
+* [#02 Oficejo de Rektoro kaj Klaso 1-A](vol1/01-02.md)
