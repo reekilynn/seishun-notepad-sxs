@@ -87,5 +87,7 @@
 
 ### 最終章 グランド・ブダペスト・ホテルから去るトム
 
+* La 13-an de Februaro, Vendredo, kaj la Morto de Budho
+* Foriro
 * Epilogo: Hejmo de Silento: «Éléphant de la Bastille»
 * Finalo: Karaj miaj Familioj
