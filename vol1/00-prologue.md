@@ -1,4 +1,4 @@
-## Prologo: Tchi tio estas Amrakonto nomata "Espero".
+## Prologo: Ĉi tio estas Amrakonto nomata "Espero".
 
 致×××：
 
