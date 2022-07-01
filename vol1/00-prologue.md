@@ -1,6 +1,6 @@
-## Prologo: Ĉi tio estas Amrakonto nomata "Espero".
+## Prologo: Al ×××
 
-致×××：
+&emsp;
 
 如果两年前的春天不曾遇见你（あなた）的话，我（わたし）的人生又会怎样呢？
 
