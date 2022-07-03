@@ -4,27 +4,28 @@
 
 ### 一章 市長と捜査官と緑の帽子を被る男
 
-~~闇の中のデイヴィッドとそのアグニス~~
-
-* Prologo: Tchi tio estas Amrakonto nomata "Espero".
+* Prologo: Al ×××
 * #01 Hejmo de Silento: «Bagne de Toulon»
 * #02 Oficejo de Rektoro kaj Klaso 1-A
-* #03 La cashita Chambro
+* #03 La kaŝita Ĉambro
 * #04 Renkonto
-* #05 Dormotchambro
+* #05 Dormoĉambro
 * #06 Elekto de la Klasaj Reprezentantoj
 * #07 Tagmanĝo
-* #08 La "Libroknabino" kaj Emily J. Brontë
+* #08 La «Libroknabino» kaj Emily J. Brontë
 * ……
-* alta Febro
+* Alta Febro
 * ……
 * La aŭtoro kiu miskomprenis «La Porte Étroite»
 * ……
-* Sciigo pri "Eksedziĝo"
-* "It is ME that hopes the family can continue to exist."
-* "Hbf 3E"
+* Eliri kun Aĝulo
+* La mankanta Libro de Mari
+* Sciigo pri «Eksedziĝo»
+* «It is ME that hopes the family can continue to exist.»
+* «Hauptbahnhof Gleis3-E»
 * Deklaro de Amo
-* lia Respondo
+* Lia Respondo
+* La Komenco kun mia Amanto
 
 ### 二章 長い休日を過すアン
 
@@ -87,6 +88,8 @@
 ……
 
 ……
+
+~~闇の中のデイヴィッドとそのアグニス~~
 
 
 ### 最終章 グランド・ブダペスト・ホテルから去るトム
