@@ -23,7 +23,7 @@
 * La mankanta Libro de Mari
 * Sciigo pri «Eksedziĝo»
 * «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»
-* «Hauptbahnhof Gleis4-B»
+* «Hauptbahnhof Gleis 4-B»
 * Deklaro de Amo
 * Lia Respondo
 * La Komenco kun mia Amanto
@@ -38,9 +38,10 @@
 
 * ……
 * Kadzho 1
-* Vizitanto (Kashiwabara Kotomi)
+* Vizitanto 1
 * Kadzho 2
-* escapi
+* Vizitanto 2
+* Voyaĝo de Fuĝo
 * shia Familio
 * ……
 * Naskidzhtago
