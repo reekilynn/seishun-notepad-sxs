@@ -21,7 +21,6 @@
 * "It is ME that hopes the family can continue to exist."
 * "Hbf 3E"
 * Deklaro de Amo
-* ……
 * lia Respondo
 
 ### 二章 長い休日を過すアン
