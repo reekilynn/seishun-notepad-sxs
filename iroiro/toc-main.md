@@ -12,7 +12,7 @@
 * #03 La cashita Chambro
 * #04 Renkonto
 * #05 Dormotchambro
-* #06 Elekto de "xxx"
+* #06 Elekto de la Klasaj Reprezentantoj
 * #07 Tagmanĝo
 * #08 La "Libroknabino" kaj Emily J. Brontë
 * ……
