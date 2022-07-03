@@ -12,7 +12,9 @@
 * #03 La cashita Chambro
 * #04 Renkonto
 * #05 Dormotchambro
-* ……
+* #06 Elekto de "xxx"
+* #07 Tagmanĝo
+* #08 La "Libroknabino" kaj Emily J. Brontë
 * ……
 * alta Febro
 * ……
