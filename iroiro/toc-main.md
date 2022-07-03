@@ -11,13 +11,13 @@
 * #02 Oficejo de Rektoro kaj Klaso 1-A
 * #03 La cashita Chambro
 * #04 Renkonto
-* Dormotchambro
+* #05 Dormotchambro
 * ……
 * ……
 * alta Febro
 * ……
-* Estas mi, kiu esperas, ke la Familio povas dawrigi.
-* Centrastacio, sur Kajo 3.
+* "It is ME that hopes the family can continue to exist."
+* "Hbf 3E"
 * Deklaro de Amo
 * ……
 * lia Respondo
