@@ -18,6 +18,7 @@
 * ……
 * alta Febro
 * ……
+* Sciigo pri "Eksedziĝo"
 * "It is ME that hopes the family can continue to exist."
 * "Hbf 3E"
 * Deklaro de Amo
