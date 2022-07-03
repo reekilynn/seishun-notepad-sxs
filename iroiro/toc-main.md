@@ -15,6 +15,7 @@
 * #08 La «Libroknabino» kaj Emily J. Brontë
 * ……
 * Alta Febro
+* La Viro, La Virino, La Infano
 * ……
 * La aŭtoro kiu miskomprenis «La Porte Étroite»
 * ……
@@ -22,7 +23,7 @@
 * La mankanta Libro de Mari
 * Sciigo pri «Eksedziĝo»
 * «It is ME that hopes the family can continue to exist.»
-* «Hauptbahnhof Gleis3-E»
+* «Hauptbahnhof Gleis4-B»
 * Deklaro de Amo
 * Lia Respondo
 * La Komenco kun mia Amanto
