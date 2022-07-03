@@ -22,7 +22,7 @@
 * Eliri kun Aĝulo
 * La mankanta Libro de Mari
 * Sciigo pri «Eksedziĝo»
-* «It is ME that hopes the family can continue to exist.»
+* «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»
 * «Hauptbahnhof Gleis4-B»
 * Deklaro de Amo
 * Lia Respondo
