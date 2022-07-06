@@ -273,13 +273,13 @@
 第一章后半病故，去世前在しずく卧室榻榻米的暗格中放置了存储密文遗书（以iroha歌为加密词典）的U盘，但其中并未提到しずく的身世，也未提到隆子即是勇的情人。
 
 
-#### 彼得·伊万诺维奇·沃利尼茨基（Pyotr Ivanovich Vronsky/Пётр Иванович Вронский）
+#### 彼得·伊万诺维奇·沃利尼茨基（Pyotr Ivanovich Volhyntsky/Пётр Иванович Волиньцкий）
 
 蒲池隆子在美国的导师，年龄约60岁。
 
 于故事的第二年前来日本，在天道大学担任客座教授，为期半年。
 
-随行人员包括攻读博士研究生的克里斯蒂安·霍顿（Christian Houghton），以及双胞胎子女阿列克谢（Alexei Petrovich Vronsky/Алексей Петрович Вронский）和卡塔丽娜（Katalina Petrovna Vronskaya/Каталина Петровна Вронская）。
+随行人员包括攻读博士研究生的克里斯蒂安·霍顿（Christian Houghton），以及双胞胎子女阿列克谢（Alexei Petrovich Volhyntsky/Алексей Петрович Волиньцкий）和卡塔丽娜（Katalina Petrovna Volhyntskaya/Каталина Петровна Волиньцкая）。
 
 ## 背景设定资料
 
