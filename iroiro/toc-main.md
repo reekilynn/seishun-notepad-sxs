@@ -70,20 +70,19 @@
 * **Thornfield: Transiro**
 * ……
 * Kara Filino
-* shia Larmo kaj lia Decido
+* Fina Provludo
+* "Ice melt into Tears."
+* "Diamond burns into Flame."
 * la Tagon antaw la Lerneja Festo
 * Kie vi estas?
 * "La Rado de la Tagidzho" -Malespero-
-* ……
-* Movado I. -Moderato-
-* Movado II. -Adagio sostenuto-
-* Movado III. -Allegro scherzando-
-* Biso: -Maestoso alla marcia-
-* Ekstra Biso: "La Rado de la Tagidzho" -Elatcheto-
-* Petrelo en Shtormo
+* Konĉerto Movado I. -Moderato-
+* Konĉerto Movado II. -Adagio sostenuto-
+* Konĉerto Movado III. -Allegro scherzando-
+* Biso. "La Rado de la Tagidzho" -Petrelo en Shtormo-
 * Patrino kaj Filo (Rochester & Bertha)
 * **Thornfield: Resumo**
-* kiel Gefratoj (Joan & Olivia)
+* Kiel Gefratoj (Joan & Olivia)
 
 ……
 
