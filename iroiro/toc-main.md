@@ -85,6 +85,12 @@
 * **Thornfield: Resumo**
 * Kiel Gefratoj (Joan & Olivia)
 
+### 五章 ？？？
+
+* Mesaĝo de Rektoro
+* Konsilio
+* «What will you do in the school if you are the Students' President?»
+
 ……
 
 ……
