@@ -10,15 +10,21 @@
 8. 9nine「SHINING☆STAR」
 9. 小田和正「ラブ・ストーリは突然に」
 10. Perfume「スパイス」
-11. RADWIMPS「何でもないや」
-12. ClariS「ひらひら ひらら」
-13. DEEN「君さえいれば」
-14. ももいろクローバーZ「MOON PRIDE」
-15. 星野源「恋」
-16. 新垣結衣「小さな恋のうた」
-17. Owl City「Enchanted」
-18. 麗美「Forever Friends」
-19. 鈴木雅之/伊原六花「ラブ・ドラマチック」
-20. DAOKO/米津玄師「打上花火」
-21. 宇多田ヒカル「One Last Kiss」
-22. 宇多田ヒカル「Beautiful World (Da Capo Version)」
+11. 福山雅治「零 -ZERO-」
+12. Teresa Teng「時の流れに身をまかせ」
+13. Owl City「Enchanted」
+14. 鈴木雅之/伊原六花「ラブ・ドラマチック」
+15. DAOKO/米津玄師「打上花火」
+16. 麗美「Forever Friends」
+17. RADWIMPS「何でもないや」
+18. ClariS「ひらひら ひらら」
+19. DEEN「君さえいれば」
+20. ももいろクローバーZ「MOON PRIDE」
+21. 星野源「恋」
+22. 新垣結衣「小さな恋のうた」
+23. Oasis「Falling Down」
+24. CAPSULE「Sugarless GiRL」
+25. abandon boys school「HOWLING」
+26. KOTOKO「Shooting Star」
+27. 宇多田ヒカル「One Last Kiss」
+28. 宇多田ヒカル「Beautiful World (Da Capo Version)」
