@@ -54,32 +54,33 @@
 
 * **Thornfield: Enkonduko**
 * Redzhino (Shizuku Asakura)
-* trompa Taktiko 1
-* alfrontas novan Patrinon (Vojo de Dorno)
+* Trompa Taktiko 1
 * ……
-* Studenta Konsilio
-* mistera Kajero
-* "Jane" kaj "Edward"
+* ……
+* Alfrontas novan Patrinon (Vojo de Dorno)
+* «À la Recherche du Temps perdu»
+* T & U
 * ……
 * **Thornfield: Klarigo**
-* ……
-* trompa Taktiko 2
-* "Antoinetta"
+* Trompa Taktiko 2
+* Studenta Konsilio
+* Mistera Kajero
+* Nombra Kodo
 * ……
 * ……
 * **Thornfield: Transiro**
-* ……
+* Sekreto en la Kvadratero
 * Kara Filino
 * Fina Provludo
-* "Ice melt into Tears."
-* "Diamond burns into Flame."
+* «Ice melt into Tears.»
+* «Diamond burns into Flame.»
 * la Tagon antaw la Lerneja Festo
 * Kie vi estas?
-* "La Rado de la Tagidzho" -Malespero-
+* «La Rado de la Tagidzho» -Malespero-
 * Konĉerto Movado I. -Moderato-
 * Konĉerto Movado II. -Adagio sostenuto-
 * Konĉerto Movado III. -Allegro scherzando-
-* Biso. "La Rado de la Tagidzho" -Petrelo en Shtormo-
+* Biso. «La Rado de la Tagidzho» -Petrelo en Shtormo-
 * Patrino kaj Filo (Rochester & Bertha)
 * **Thornfield: Resumo**
 * Kiel Gefratoj (Joan & Olivia)
