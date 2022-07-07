@@ -54,8 +54,8 @@
 
 * **Thornfield: Enkonduko**
 * Redzhino (Shizuku Asakura)
-* alfrontas novan Patrinon (Vojo de Dorno)
 * trompa Taktiko 1
+* alfrontas novan Patrinon (Vojo de Dorno)
 * ……
 * Studenta Konsilio
 * mistera Kajero
