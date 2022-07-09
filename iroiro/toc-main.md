@@ -28,7 +28,7 @@
 * Lia Respondo
 * La Komenco kun mia Amanto
 
-### 二章 長い休日を過すアン
+### 二章 ロングバケーションを過すアン
 
 * ……
 * Joe Bradley (Gregory Peck)
@@ -85,7 +85,7 @@
 * **Thornfield: Resumo**
 * Kiel Gefratoj (Joan & Olivia)
 
-### 五章 アナスタシアは銃口の前に
+### 五章 アナスタシアは銃口の前に立つ
 
 * Mesaĝo de Rektoro
 * Konsilio
