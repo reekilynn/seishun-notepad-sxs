@@ -20,6 +20,7 @@
 * La aŭtoro kiu miskomprenis «La Porte Étroite»
 * ……
 * Eliri kun Aĝulo
+* 
 * La mankanta Libro de Mari
 * Sciigo pri «Eksedziĝo»
 * «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»
@@ -85,7 +86,7 @@
 * **Thornfield: Resumo**
 * Kiel Gefratoj (Joan & Olivia)
 
-### 五章 アナスタシアは銃口の前に立つ
+### 五章 アナスタシアは銃口の前に立ってる
 
 * Mesaĝo de Rektoro
 * Konsilio
