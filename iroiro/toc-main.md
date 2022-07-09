@@ -4,30 +4,31 @@
 
 ### 一章 市長と捜査官と緑の帽子を被る男
 
-* Prologo: Al ×××
-* #01 Hejmo de Silento: «Bagne de Toulon»
-* #02 Oficejo de Rektoro kaj Klaso 1-A
-* #03 La kaŝita Ĉambro
-* #04 Renkonto
-* #05 Dormoĉambro
-* #06 Elekto de la Klasaj Reprezentantoj
-* #07 Tagmanĝo
-* #08 La «Libroknabino» kaj Emily J. Brontë
+* Prologo: Al ×××（×××へ）
+* #01 Hejmo de Silento: «Bagne de Toulon»（沈黙の家：「トゥーロンの徒刑場」）
+* #02 Oficejo de Rektoro kaj Klaso 1-A（校長室と一年A組）
+* #03 La kaŝita Ĉambro（隠した部屋）
+* #04 Renkonto（出会い）
+* #05 Dormoĉambro（寮室）
+* #06 Elekto de la Klasaj Reprezentantoj（学級委員の選挙）
+* #07 Tagmanĝo（昼食）
+* #08 La «Libroknabino» kaj Emily J. Brontë（『文学少女』とエミリー・ブロンテ）
 * ……
-* Alta Febro
-* «Il était Vêtu de rouge, et avait un Bonnet vert.»
+* Alta Febro（高熱）
+* «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）
 * ……
-* La aŭtoro kiu miskomprenis «La Porte Étroite»
+* La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
 * ……
-* Eliri kun Aĝulo
-* 
-* La mankanta Libro de Mari
-* Sciigo pri «Eksedziĝo»
-* «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»
-* «Hauptbahnhof Gleis 4-B»
-* Deklaro de Amo
-* Lia Respondo
-* La Komenco kun mia Amanto
+* Eliri kun Aĝulo（先輩とのお出かけ）
+* La Ruĝa kaj la Blanka（紅と白）
+* Librejo 1（書店１）
+* La mankanta Libro de Mari（マリさんのその足りない本）
+* Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
+* «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
+* «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム４-B」）
+* Deklaro de Amo（告白）
+* Lia Respondo（彼の返事）
+* La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
 
 ### 二章 ロングバケーションを過すアン
 
