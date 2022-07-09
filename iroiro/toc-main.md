@@ -88,10 +88,24 @@
 
 ### 五章 アナスタシアは銃口の前に立ってる
 
-* Mesaĝo de Rektoro
-* Konsilio
-* «What will you do in the school if you are the Students' President?»
-* Decido
+* Rilato kiu ne povas esti riparita（修復できない関係）
+* Mesaĝo de Rektoro（校長からのメッセージ）
+* Konsilio（評議会）
+* «What will you do in the school if you are the Students' President?»（貴方が生徒会長になったら、何をしたい？）
+* Decido（決断）
+* Lasta Taktiko（後発先制）
+* Kandidatoj（立候補たち）
+* La nigra Kostumo（黒の制服）
+* 4 kontraŭ 4（４対４）
+* Deklaro de Milito（宣戦布告）
+* Strategia Renkontiĝo 1（作戦会議１）
+* Strategia Renkontiĝo 2（作戦会議２）
+* ……
+* ……
+* «судом» или «трубочист»（“審理”或いは“煙突掃除”）
+* Batalo ĉe la Debato（討論会での戦い）
+* Ekzekuto（処刑）
+* ……
 
 ……
 
