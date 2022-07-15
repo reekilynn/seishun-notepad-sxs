@@ -121,8 +121,9 @@
 
 * Tagiĝo kaj Krepusko（払暁と黄昏）
 * ……
-* Diplomiĝa Ceremonio
-* La Ĉambro, kiu ne plu estas kaŝita.
-* Foriro
-* Epilogo: Hejmo de Silento: «Éléphant de la Bastille»
-* Finalo: Karaj miaj Familioj
+* Diplomiĝa Ceremonio（卒業式）
+* La Ĉambro, kiu ne plu estas kaŝita.（その部屋は、もう隠されていない。）
+* Foriro（旅立ち）
+* Prologo: Al Masaki（政樹へ）
+* Epilogo: Hejmo de Silento: «Éléphant de la Bastille»（沈黙の家：「バスチーユの象」）
+* Finalo: Karaj miaj Familioj（最愛の家族たち）
