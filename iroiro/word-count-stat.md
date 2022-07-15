@@ -1,6 +1,6 @@
 ## 字数统计（chs）
 
-|Chapter|Word Count|
+|Chapter|Count|
 |--:|--:|
 |Prologue|294|
 |01-01|2129|
