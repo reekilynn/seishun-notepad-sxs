@@ -126,4 +126,4 @@
 * Foriro（旅立ち）
 * Prologo: Al Masaki（政樹へ）
 * Epilogo: Hejmo de Silento: «Éléphant de la Bastille»（沈黙の家：「バスチーユの象」）
-* Finalo: Karaj miaj Familioj（最愛の家族たち）
+* Finalo: Karaj miaj Familioj（わたしの最愛の家族たちへ）
