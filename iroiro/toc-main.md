@@ -119,7 +119,7 @@
 
 ### 最終章 グランド・ブダペスト・ホテルから去るトム
 
-* La 13-an de Februaro, Vendredo, kaj la Morto de Budho
+* Tagiĝo kaj Krepusko（払暁と黄昏）
 * ……
 * Diplomiĝa Ceremonio
 * La Ĉambro, kiu ne plu estas kaŝita.
