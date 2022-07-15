@@ -54,38 +54,38 @@
 
 ### 四章 ソーンフィールド邸と向き合うジェーン
 
-* **Thornfield: Enkonduko**
-* Redzhino (Shizuku Asakura)
-* Trompa Taktiko 1
+* **Thornfield: Enkonduko**（ソーンフィールド：起）
+* Redzhino (Shizuku Asakura)（女王／朝倉しずく）
+* Trompa Taktiko 1（チート的な策略１）
 * ……
 * ……
-* Alfrontas novan Patrinon (Vojo de Dorno)
-* «À la Recherche du Temps perdu»
+* Alfrontas novan Patrinon (Vojo de Dorno)（義母に向き合って／いばらの道）
+* «À la Recherche du Temps perdu»（空白の時間を探す）
 * T & U
 * ……
-* **Thornfield: Klarigo**
-* Trompa Taktiko 2
-* Studenta Konsilio
-* Mistera Kajero
-* Nombra Kodo
+* **Thornfield: Klarigo**（ソーンフィールド：承）
+* Trompa Taktiko 2（チート的な策略２）
+* Studenta Konsilio（生徒会）
+* Mistera Kajero（謎めいた日記）
+* Nombra Kodo（数字暗号）
 * ……
 * ……
-* **Thornfield: Transiro**
-* Sekreto en la Kvadratero
-* Kara Filino
-* Fina Provludo
-* «Ice melt into Tears.»
-* «Diamond burns into Flame.»
-* la Tagon antaw la Lerneja Festo
-* Kie vi estas?
-* «La Rado de la Tagidzho» -Malespero-
-* Konĉerto Movado I. -Moderato-
-* Konĉerto Movado II. -Adagio sostenuto-
-* Konĉerto Movado III. -Allegro scherzando-
-* Biso. «La Rado de la Tagidzho» -Petrelo en Shtormo-
-* Patrino kaj Filo (Rochester & Bertha)
-* **Thornfield: Resumo**
-* Kiel Gefratoj (Joan & Olivia)
+* **Thornfield: Transiro**（ソーンフィールド：転）
+* Sekreto en la Kvadratero（四角の中の秘密）
+* Kara Filino（娘へ）
+* Fina Provludo（最終リハーサル）
+* «Ice melt into Tears.»（氷は雫に溶ける）
+* «Diamond burns into Flame.»（金剛石は炎に燃える）
+* la Tagon antaw la Lerneja Festo（文化祭前日）
+* Kie vi estas?（あなたはどこに行った？）
+* «La Rado de la Tagidzho» -Malespero-（《暁の車》：絶望）
+* Konĉerto Movado I. -Moderato-（協奏曲第一楽章：Moderato）
+* Konĉerto Movado II. -Adagio sostenuto-（協奏曲第二楽章：Adagio sostenuto）
+* Konĉerto Movado III. -Allegro scherzando-（協奏曲第三楽章：Allegro scherzando）
+* Biso. «La Rado de la Tagidzho» -Petrelo en Shtormo-（アンコール：《暁の車》：海燕は嵐の中）
+* Patrino kaj Filo (Rochester & Bertha)（母と子：ロチェスターとバーサ）
+* **Thornfield: Resumo**（ソーンフィールド：結）
+* Kiel Gefratoj (Joan & Olivia)（姉弟のように：ジョーンとオリヴィア）
 
 ### 五章 アナスタシアは銃口の前に立ってる
 
