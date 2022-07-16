@@ -120,15 +120,12 @@ Volyn……Volynia……不对，好像少了一个字母。
 
 （中略）
 
-安装好输入法的我，确认能够正确打出西里尔字母后，才打开浏览器，调出在线翻译的网页，输入笔记本第一页上的那两行字。
+安装好输入法的我，确认能够正确打出西里尔字母后，才打开浏览器，调出在线翻译的网页，输入笔记本第一页上的那三行字。
 
 屏幕的右侧显示出了翻译好的英文句子。
 
-“To Comerade:
+“Comerade:
 
 If you get this diary, please mail it to Vasili Pavrovich Volynsky living in Tashkent.
 
 Ivan Vasilievich Volynsky”
-
-
-
