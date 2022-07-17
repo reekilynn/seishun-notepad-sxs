@@ -13,11 +13,14 @@
 * #06 Elekto de la Klasaj Reprezentantoj（学級委員の選挙）
 * #07 Tagmanĝo（昼食）
 * #08 La «Libroknabino» kaj Emily J. Brontë（『文学少女』とエミリー・ブロンテ）
-* ……
-* Alta Febro（高熱）
-* «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）
-* ……
-* La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
+* #09 Du Flankoj de la sama Monero（コインの裏と表）
+* #10 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）
+* #11 Alta Febro（高熱）
+* #12 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）
+* #13 Testo pri Fizika Taŭgeco（体力測定）
+* #14 Kial iu diris, ke "Libroknabino" havas nur kvin Volumojn?（どうして『文学少女』は五巻までと言われたの？）
+* #15 Okazaĵo en Klasa Komitato（学級委員会の出来事）
+* #16 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
 * ……
 * Eliri kun Aĝulo（先輩とのお出かけ）
 * La Ruĝa kaj la Blanka（紅と白）
