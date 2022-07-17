@@ -21,7 +21,9 @@
 * #14 Dubo kaj Kritiko（疑いと批判）
 * #15 Okazaĵo en Klasa Komitato（学級委員会の出来事）
 * #16 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
+* #17 Kontrapunkto（対位法）
 * ……
+* Invito（誘い）
 * Eliri kun Aĝulo（先輩とのお出かけ）
 * ~~La Ruĝa kaj la Blanka（紅と白）~~
 * Librejo 1（書店１）
