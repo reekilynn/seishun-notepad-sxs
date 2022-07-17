@@ -22,19 +22,18 @@
 * #15 Okazaĵo en Klasa Komitato（学級委員会の出来事）
 * #16 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
 * #17 Kontrapunkto（対位法）
-* #18 ……
-* #19 ……
-* #20 Invito（誘い）
-* #21 Eliri kun Aĝulo（先輩とのお出かけ）
-* #22 En Butikcentro（ショッピングモールにて）
-* #23 Librejo 1（書店１）
-* #24 La mankanta Libro de Mari（マリさんのその足りない本）
-* #25 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
-* #26 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
-* #27 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム４-B」）
-* #28 Deklaro de Amo（告白）
-* #29 Lia Respondo（彼の返事）
-* #30 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
+* #18 Sub la Surfaco（水面下）
+* #19 Invito（誘い）
+* #20 Eliri kun Aĝulo（先輩とのお出かけ）
+* #21 En Butikcentro（ショッピングモールにて）
+* #22 Librejo 1（書店１）
+* #23 La mankanta Libro de Mari（マリさんのその足りない本）
+* #24 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
+* #25 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
+* #26 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）
+* #27 Deklaro de Amo（告白）
+* #28 Lia Respondo（彼の返事）
+* #29 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
 
 ### 二章 ロングバケーションを過すアン
 
