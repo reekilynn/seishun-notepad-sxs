@@ -23,7 +23,7 @@
 * #16 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
 * ……
 * Eliri kun Aĝulo（先輩とのお出かけ）
-* La Ruĝa kaj la Blanka（紅と白）
+* ~~La Ruĝa kaj la Blanka（紅と白）~~
 * Librejo 1（書店１）
 * La mankanta Libro de Mari（マリさんのその足りない本）
 * Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
