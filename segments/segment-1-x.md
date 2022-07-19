@@ -1,4 +1,4 @@
-## La mankanta Libro de Mari
+## #22 La mankanta Libro de Mari
 
 从书店出来的时候，渡边学姐突然被摆在橱窗中的一本书吸引了视线，停下了脚步。我走到橱窗旁边，指着那本书问道：
 
