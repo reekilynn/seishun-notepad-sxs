@@ -11,29 +11,28 @@
 * #04 Renkonto（出会い）
 * #05 Dormoĉambro（寮室）
 * #06 Elekto de la Klasaj Reprezentantoj（学級委員の選挙）
-* #07 Tagmanĝo（昼食）
-* #08 La «Libroknabino» kaj Emily J. Brontë（『文学少女』とエミリー・ブロンテ）
-* #09 Du Flankoj de la sama Monero（コインの裏と表）
-* #10 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）
-* #11 Alta Febro（高熱）
-* #12 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）
-* #13 Testo pri Fizika Taŭgeco（体力測定）
-* #14 Dubo kaj Kritiko（疑いと批判）
-* #15 Okazaĵo en Klasa Komitato（学級委員会の出来事）
-* #16 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
-* #17 Kontrapunkto（対位法）
-* #18 Sub la Surfaco（水面下）
-* #19 Invito（誘い）
-* #20 Eliri kun Aĝulo（先輩とのお出かけ）
-* #21 En Butikcentro（ショッピングモールにて）
-* #22 Librejo 1（書店１）
-* #23 La mankanta Libro de Mari（マリさんのその足りない本）
-* #24 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
-* #25 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
-* #26 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）
-* #27 Deklaro de Amo（告白）
-* #28 Lia Respondo（彼の返事）
-* #29 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
+* #07 La «Libroknabino» kaj Emily J. Brontë（『文学少女』とエミリー・ブロンテ）
+* #08 Du Flankoj de la sama Monero（コインの裏と表）
+* #09 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）
+* #10 Alta Febro（高熱）
+* #11 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）
+* #12 Testo pri Fizika Taŭgeco（体力測定）
+* #13 Dubo kaj Kritiko（疑いと批判）
+* #14 Okazaĵo en Klasa Komitato（学級委員会の出来事）
+* #15 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
+* #16 Kontrapunkto（対位法）
+* #17 Sub la Surfaco（水面下）
+* #18 Invito（誘い）
+* #19 Eliri kun Aĝulo（先輩とのお出かけ）
+* #20 En Butikcentro（ショッピングモールにて）
+* #21 Librejo 1（書店１）
+* #22 La mankanta Libro de Mari（マリさんのその足りない本）
+* #23 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
+* #24 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
+* #25 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）
+* #26 Deklaro de Amo（告白）
+* #27 Lia Respondo（彼の返事）
+* #28 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
 
 ### 二章 ロングバケーションを過すアン
 
