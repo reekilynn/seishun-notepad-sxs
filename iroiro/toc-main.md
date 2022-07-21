@@ -12,7 +12,7 @@
 * #05 Dormoĉambro（寮室）
 * #06 Elekto de la Klasaj Reprezentantoj（学級委員の選挙）
 * #07 La «Libroknabino» kaj Emily J. Brontë（『文学少女』とエミリー・ブロンテ）
-* #08 Dubo kaj Kritiko（疑いと批判）
+* #08 Kritiko kaj Dubo（批判と疑い）
 * #09 Alta Febro（高熱）
 * #10 Vizitante la Pacienton（看病）
 * #11 Mi ne rapidas pri Kurado.（僕は、走るのが早いではなく。）
