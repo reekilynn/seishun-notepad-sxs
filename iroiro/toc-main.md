@@ -16,7 +16,7 @@
 * #09 Alta Febro（高熱）
 * #10 Vizitante la Pacienton（看病）
 * #11 Mi ne rapidas pri Kurado.（僕は、走るのが早いではなく。）
-* #12 Okazaĵo en Klasa Komitato（学級委員会の出来事）
+* #12 En Studenta Konsilio 1（生徒会にて１）
 * #13 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
 * #14 Kontrapunkto（対位法）
 * #15 Sub la Surfaco（水面下）
