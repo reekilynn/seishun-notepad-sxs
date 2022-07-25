@@ -20,22 +20,22 @@
 * #13 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
 * #14 Kontrapunkto（対位法）
 * #15 Sub la Surfaco（水面下）
-* #16 Invito（誘い）
-* #17 Eliri kun Aĝulo（先輩とのお出かけ）
-* #18 En Butikcentro（ショッピングモールにて）
-* #19 Librejo 1（書店１）
-* #20 La mankanta Libro de Mari（マリさんのその足りない本）
-* #21 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
-* #22 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
-* #23 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）
-* #24 Deklaro de Amo（告白）
-* #25 Lia Respondo（彼の返事）
-* #26 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
+* #16 Eliri kun Aĝulo（先輩とのお出かけ）
+* #17 En Butikcentro（ショッピングモールにて）
+* #18 Librejo 1（書店１）
+* #19 La mankanta Libro de Mari（マリさんのその足りない本）
+* #20 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
+* #21 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
+* #22 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）
+* #23 Deklaro de Amo（告白）
+* #24 Lia Respondo（彼の返事）
+* #25 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
 
 ### 二章 ロングバケーションを過すアン
 
 * ……
 * Joe Bradley (Gregory Peck)
+* ~~#16 Invito（誘い）~~
 * ~~#11 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）~~
 * ~~#08 Du Flankoj de la sama Monero（コインの裏と表）~~
 * ~~#09 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）~~
