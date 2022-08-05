@@ -49,3 +49,4 @@
 * [#14 Kontrapunkto sub la Akvo（水面下の対位法）](vol1/01-14.md)
 * [#15 Eliri kun Aĝulo（先輩とのお出かけ）](vol1/01-15.md)
 * [#16 Rigardante la Filmon（映画を見て）](vol1/01-16.md)
+* [#17 Librejo 1（書店１）](vol1/01-17.md)
