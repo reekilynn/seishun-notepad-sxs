@@ -50,3 +50,6 @@
 * [#15 Eliri kun Aĝulo（先輩とのお出かけ）](vol1/01-15.md)
 * [#16 Rigardante la Filmon（映画を見て）](vol1/01-16.md)
 * [#17 Librejo 1（書店１）](vol1/01-17.md)
+* [#18 La mankanta Libro de Mari（マリさんのその足りない本）](vol1/01-18.md)
+* [#19 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）](vol1/01-19.md)
+* [#20 «IT is ME that HOPES the FAMILY can CONTINUE to EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）(vol1/01-20.md)
