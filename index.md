@@ -53,3 +53,5 @@
 * [#18 La mankanta Libro de Mari（マリさんのその足りない本）](vol1/01-18.md)
 * [#19 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）](vol1/01-19.md)
 * [#20 «IT is ME that HOPES the FAMILY can CONTINUE to EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）](vol1/01-20.md)
+* [#21 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）](vol1/01-21.md)
+* [#22 Deklaro de Amo（告白）](vol1/01-22.md)
