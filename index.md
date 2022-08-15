@@ -30,7 +30,7 @@
 
 ## Enhavtabelo
 
-### Chapitro.01 市長と捜査官と緑の帽子を被る男
+### Ĉapitro.01 市長と捜査官と緑の帽子を被る男
 
 * [Prologo: Al ×××（×××へ）](vol1/00-prologue.md)
 * [#01 Hejmo de Silento: «Bagne de Toulon»（沈黙の家：「トゥーロンの徒刑場」）](vol1/01-01.md)
