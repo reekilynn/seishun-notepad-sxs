@@ -55,3 +55,4 @@
 * [#20 «IT is ME that HOPES the FAMILY can CONTINUE to EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）](vol1/01-20.md)
 * [#21 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）](vol1/01-21.md)
 * [#22 Deklaro de Amo（告白）](vol1/01-22.md)
+* [#23 Lia Respondo（彼の返事）](vol1/01-23.md)
