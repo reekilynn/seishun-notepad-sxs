@@ -57,3 +57,4 @@
 * [#22 Deklaro de Amo（告白）](vol1/01-22.md)
 * [#23 Lia Respondo（彼の返事）](vol1/01-23.md)
 * [#24 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）](vol1/01-24.md)
+* [Karakteraj Informoj kaj Postskribo de Ĉapitro.01（一章時点でのキャラ紹介＆一章あとがき）](vol1/01-25-postscript.md)
