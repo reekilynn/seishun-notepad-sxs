@@ -47,7 +47,7 @@
 * [#12 En Studenta Konsilio 1（生徒会にて１）](vol1/01-12.md)
 * [#13 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）](vol1/01-13.md)
 * [#14 Kontrapunkto sub la Akvo（水面下の対位法）](vol1/01-14.md)
-* [#15 Eliri kun Aĝulo（先輩とのお出かけ）](vol1/01-15.md)
+* [#15 Eliri kun Aĝulino（先輩とのお出かけ）](vol1/01-15.md)
 * [#16 Rigardante la Filmon（映画を見て）](vol1/01-16.md)
 * [#17 Librejo 1（書店１）](vol1/01-17.md)
 * [#18 La mankanta Libro de Mari（マリさんのその足りない本）](vol1/01-18.md)
