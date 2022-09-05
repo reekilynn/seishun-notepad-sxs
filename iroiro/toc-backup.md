@@ -41,7 +41,7 @@
 * #06 Osteria Pelican（オステリア・ペリカン）
 * #07 Librejo 2（書店２）
 * #08 Renkontiĝo kaj Vespermanĝo（面会と夕食）
-* #09 Preparado de Sporta Festivalo（体育祭の準備）
+* #09 Preparado de Sporta Festivalo（運動会の準備）
 * #10 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）
 * #11 Komparo kaj Analizo（比較と分析）
 * #12 Studa Sesio（勉強会）
@@ -49,7 +49,10 @@
 * #14 Post Mezperioda Testo（中間試験の後）
 * #15 Translokado（引越し） 
 * #16 En Studenta Konsilio 2（生徒会にて２）
-* 
+* #17 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）
+* #18 Sporta Festivalo（運動会）
+* #19 Finpartio（打ち上げパーティー）
+* #20 Lumo（ひかり）
 * ……
 * Joe Bradley (Gregory Peck)
 * 
@@ -147,6 +150,3 @@
 * Epilogo: Hejmo de Silento: «Éléphant de la Bastille»（沈黙の家：「バスチーユの象」）
 * Finalo: Karaj miaj Familioj（わたしの最愛の家族たちへ）
 * Ekstra: En Studenta Konsilio: Nova
-* ~~#16 Invito（誘い）~~
-* ~~#11 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）~~
-* ~~#08 Du Flankoj de la sama Monero（コインの裏と表）~~
