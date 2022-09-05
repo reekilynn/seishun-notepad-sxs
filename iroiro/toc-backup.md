@@ -36,11 +36,9 @@
 * #01 Peto al «Saffron»（『サフラン』への依頼）
 * #02 Kasedo en Memoro（記憶の中のカセット）
 * #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）
-* ……
+* #04 Letero de «Princino»（『姫』からの手紙）
+* 
 * Joe Bradley (Gregory Peck)
-* ~~#16 Invito（誘い）~~
-* ~~#11 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）~~
-* ~~#08 Du Flankoj de la sama Monero（コインの裏と表）~~
 * ~~#09 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）~~
 * ~~La Ruĝa kaj la Blanka（紅と白）~~
 
@@ -136,3 +134,7 @@
 * Epilogo: Hejmo de Silento: «Éléphant de la Bastille»（沈黙の家：「バスチーユの象」）
 * Finalo: Karaj miaj Familioj（わたしの最愛の家族たちへ）
 * Ekstra: En Studenta Konsilio: Nova
+
+* ~~#16 Invito（誘い）~~
+* ~~#11 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）~~
+* ~~#08 Du Flankoj de la sama Monero（コインの裏と表）~~
