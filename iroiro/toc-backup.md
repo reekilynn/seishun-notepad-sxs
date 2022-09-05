@@ -5,66 +5,66 @@
 ### 一章 市長と捜査官と緑の帽子を被る男
 
 * Prologo: Al ×××（×××へ）
-* #01 Hejmo de Silento: «Bagne de Toulon»（沈黙の家：「トゥーロンの徒刑場」）
-* #02 Oficejo de Rektoro kaj Klaso 1-A（校長室と一年A組）
-* #03 La kaŝita Ĉambro（隠した部屋）
-* #04 Renkonto（出会い）
-* #05 Dormoĉambro（寮室）
-* #06 Elekto de la Klasaj Reprezentantoj（学級委員の選挙）
-* #07 La «Libroknabino» kaj Emily J. Brontë（『文学少女』とエミリー・ブロンテ）
-* #08 Kritiko kaj Dubo（批判と疑い）
-* #09 Alta Febro（高熱）
-* #10 Vizitante la Pacienton（看病）
-* #11 Mi ne rapidas pri Kurado.（僕は、走るのが早いではなく。）
-* #12 En Studenta Konsilio 1（生徒会にて１）
-* #13 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）
-* #14 Kontrapunkto（対位法）
-* #15 Sub la Surfaco（水面下）
-* #16 Eliri kun Aĝulo（先輩とのお出かけ）
-* #17 En Butikcentro（ショッピングモールにて）
-* #18 Librejo 1（書店１）
-* #19 La mankanta Libro de Mari（マリさんのその足りない本）
-* #20 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）
-* #21 «It is ME that HOPES the FAMILY can CONTINUE TO EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）
-* #22 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）
-* #23 Deklaro de Amo（告白）
-* #24 Lia Respondo（彼の返事）
-* #25 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
+* #01 Hejmo de Silento: «Bagne de Toulon»（沈黙の家：「トゥーロンの徒刑場」）<font color=red>（Apr.5, Mon）</font>
+* #02 Oficejo de Rektoro kaj Klaso 1-A（校長室と一年A組）<font color=red>（Apr.5, Mon）</font>
+* #03 La kaŝita Ĉambro（隠される部屋）<font color=red>（Apr.5, Mon）</font>
+* #04 Renkonto（出会い）<font color=red>（Apr.5, Mon）</font>
+* #05 Dormoĉambro（寮室）<font color=red>（Apr.5, Mon）</font>
+* #06 Elekto de la Klasaj Reprezentantoj（学級委員の選挙）<font color=red>（Apr.6, Tue）</font>
+* #07 La «Libroknabino» kaj Emily J. Brontë（「文学少女」とエミリー・ブロンテ）<font color=red>（Apr.6, Tue）</font>
+* #08 Kritiko kaj Dubo（批判と疑い）<font color=red>（Apr.6-10, Tue-Sat）</font>
+* #09 Alta Febro（高熱）<font color=red>（Apr.11, Sun）</font>
+* #10 Vizitante la Pacienton（看病）<font color=red>（Apr.12, Mon）</font>
+* #11 Mi ne rapidas pri Kurado.（僕は、走るのが早いではなく。）<font color=red>（Apr.14, Wed）</font>
+* #12 En Studenta Konsilio 1（生徒会にて１）<font color=red>（Apr.16, Fri）</font>
+* #13 La aŭtoro kiu miskomprenis «La Porte Étroite»（『狭き門』を誤解した小説家）<font color=red>（Apr.20, Tue）</font>
+* #14 Kontrapunkto sub la Akvo（水面下の対位法）<font color=red>（Apr.20-25, Tue-Sun）</font>
+* #15 Eliri kun Aĝulino（先輩とのお出かけ）<font color=red>（Apr.29, Thu）</font>
+* #16 Rigardante la Filmon（映画を見て）<font color=red>（Apr.29, Thu）</font>
+* #17 Librejo 1（書店１）<font color=red>（Apr.29, Thu）</font>
+* #18 La mankanta Libro de Mari（マリさんのその足りない本）<font color=red>（Apr.29, Thu）</font>
+* #19 Sciigo pri «Eksedziĝo»（「離婚」のお知らせ）<font color=red>（Apr.29-30, Thu-Fri）</font>
+* #20 «IT is ME that HOPES the FAMILY can CONTINUE to EXIST.»（「この家が存在し続くと望んだのは、僕しかいない。」）<font color=red>（Apr.30, Fri）</font>
+* #21 «Hauptbahnhof Gleis 4-B»（「中央駅、ホーム4-B」）<font color=red>（Apr.30, Fri）</font>
+* #22 Deklaro de Amo（告白）<font color=red>（Apr.30, Fri）</font>
+* #23 Lia Respondo（彼の返事）<font color=red>（Apr.30, Fri）</font>
+* #24 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）<font color=red>（May.1, Sat）</font>
+* Karakteraj Informoj kaj Postskribo de Ĉapitro.01（一章時点でのキャラ紹介＆一章あとがき）
 
 ### 二章 ロングバケーションを過すアン
 
-* #01 Peto al «Saffron»（『サフラン』への依頼）
-* #02 Kasedo en Memoro（記憶の中のカセット）
-* #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）
-* #04 Letero de «Princino»（『姫』からの手紙）
-* #05 Fianĉo（婚約者）
-* #06 Osteria Pelican（オステリア・ペリカン）
-* #07 Librejo 2（書店２）
-* #08 Renkontiĝo kaj Vespermanĝo（面会と夕食）
-* #09 Preparado de Sporta Festivalo（運動会の準備）
-* #10 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）
-* #11 Komparo kaj Analizo（比較と分析）
-* #12 Post Mezperioda Testo（中間試験の後）
-* #13 Translokado（引越し）
-* #14 En Studenta Konsilio 2（生徒会にて２）
-* #15 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）
-* #16 Sporta Festivalo（運動会）
-* #17 Finpartio（打ち上げパーティー）
-* #18 Lumo（ひかり）
-* #19 "Polovtsiana Danco"（『韃靼人踊』）
-* #20 Pluvo, kaj Invito de Dato（雨、そしてデートのお誘い）
-* #21 Botanika Ĝardeno（植物園）
-* #22 Ĝemeloj（双子）
-* #23 Spurante la Partituron por trovi kio mankas（楽譜をなぞって足りないものを探す）
-* #24 Nomoj sur Biblioteko Eldona Karto（貸し出しカードでの名前）
-* #25 Provludo（リハーサル）
-* #26 Propono de Studsesio（勉強会の提案）
-* #27 Studsesio（勉強会）
-* #28 Matematika Modelo de Amo（恋愛感情の数理モデル）
-* #29 Ĵaluzo de Bradley（ブラドリーへの嫉妬）
-* #30 Ilia Sugesto（彼らの建議）
-* #31 Al Regiona Ĉampioneco（地区大会へ）
-* #32 Tiam, Somero komenciĝas.（そして、夏が始まる。）
+* #01 Peto al «Saffron»（『サフラン』への依頼）<font color=red>（May.6, Thu）</font>
+* #02 Kasedo en Memoro（記憶の中のカセット）<font color=red>（May.6, Thu）</font>
+* #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）<font color=red>（May.6, Thu）</font>
+* #04 Letero de «Princino»（『姫』からの手紙）<font color=red>（May.7, Fri）</font>
+* #05 Fianĉo（婚約者）<font color=red>（May.7, Fri）</font>
+* #06 Osteria Pelican（オステリア・ペリカン）<font color=red>（May.8, Sat）</font>
+* #07 Librejo 2（書店２）<font color=red>（May.9, Sun）</font>
+* #08 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
+* #09 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）<font color=red>（May.10, Mon）</font>
+* #10 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
+* #11 Komparo kaj Analizo（比較と分析）<font color=red>（May.12, Wed）</font>
+* #12 Post Mezperioda Testo（中間試験の後）<font color=red>（May.19, Wed）</font>
+* #13 Translokado（引越し）<font color=red>（May.22, Sat）</font>
+* #14 En Studenta Konsilio 2（生徒会にて２）<font color=red>（May.24, Mon）</font>
+* #15 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）<font color=red>（May.25, Tue）</font>
+* #16 Sporta Festivalo（運動会）<font color=red>（May.29, Sat）</font>
+* #17 Finpartio（打ち上げパーティー）<font color=red>（May.30, Sun）</font>
+* #18 Lumo（ひかり）<font color=red>（May.30, Sun）</font>
+* #19 "Polovtsiana Danco"（『韃靼人踊』）<font color=red>（Jun.1, Tue）</font>
+* #20 Pluvo, kaj Invito de Dato（雨、そしてデートのお誘い）<font color=red>（Jun.4, Fri）</font>
+* #21 Botanika Ĝardeno（植物園）<font color=red>（Jun.5, Sat）</font>
+* #22 Ĝemeloj（双子）<font color=red>（Jun.5, Sat）</font>
+* #23 Spurante la Partituron por trovi kio mankas（楽譜をなぞって足りないものを探す）<font color=red>（Jun.6, Sun）</font>
+* #24 Nomoj sur Biblioteko Eldona Karto（貸し出しカードでの名前）<font color=red>（Jun.6, Sun）</font>
+* #25 Provludo（リハーサル）<font color=red>（Jun.8, Tue）</font>
+* #26 Propono de Studsesio（勉強会の提案）<font color=red>（Jun.11, Fri）</font>
+* #27 Studsesio（勉強会）<font color=red>（Jun.12, Sat）</font>
+* #28 Matematika Modelo de Amo（恋愛感情の数理モデル）<font color=red>（Jun.12, Sat）</font>
+* #29 Ĵaluzo de Bradley（ブラドリーへの嫉妬）<font color=red>（Jun.13, Sun）</font>
+* #30 Ilia Sugesto（彼らの建議）<font color=red>（Jun.13, Sun）</font>
+* #31 Al Regiona Ĉampioneco（地区大会へ）<font color=red>（Jun.17-25, Thu-Fri）</font>
+* #32 Tiam, Somero komenciĝas.（そして、夏が始まる。）<font color=red>（Jun.26-27, Sat-Sun）</font>
 
 ### 三章 失ったものを探すドロシー
 
