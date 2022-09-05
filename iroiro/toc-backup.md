@@ -147,7 +147,6 @@
 * Epilogo: Hejmo de Silento: «Éléphant de la Bastille»（沈黙の家：「バスチーユの象」）
 * Finalo: Karaj miaj Familioj（わたしの最愛の家族たちへ）
 * Ekstra: En Studenta Konsilio: Nova
-
 * ~~#16 Invito（誘い）~~
 * ~~#11 «Il était Vêtu de rouge, et avait un Bonnet vert.»（その男は赤い着物を着ていて、緑の帽子をかぶっていた。）~~
 * ~~#08 Du Flankoj de la sama Monero（コインの裏と表）~~
