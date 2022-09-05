@@ -44,18 +44,27 @@
 * #09 Preparado de Sporta Festivalo（運動会の準備）
 * #10 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）
 * #11 Komparo kaj Analizo（比較と分析）
-* #12 Studa Sesio（勉強会）
-* #13 Matematika Modelo de Amo（恋愛感情の数理モデル）
-* #14 Post Mezperioda Testo（中間試験の後）
-* #15 Translokado（引越し） 
-* #16 En Studenta Konsilio 2（生徒会にて２）
-* #17 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）
-* #18 Sporta Festivalo（運動会）
-* #19 Finpartio（打ち上げパーティー）
-* #20 Lumo（ひかり）
-* ……
-* Joe Bradley (Gregory Peck)
-* 
+* #12 Post Mezperioda Testo（中間試験の後）
+* #13 Translokado（引越し）
+* #14 En Studenta Konsilio 2（生徒会にて２）
+* #15 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）
+* #16 Sporta Festivalo（運動会）
+* #17 Finpartio（打ち上げパーティー）
+* #18 Lumo（ひかり）
+* #19 "Polovtsiana Danco"（『韃靼人踊』）
+* #20 Pluvo, kaj Invito de Dato（雨、そしてデートのお誘い）
+* #21 Botanika Ĝardeno（植物園）
+* #22 Ĝemeloj（双子）
+* #23 Spurante la Partituron por trovi kio mankas（楽譜をなぞって足りないものを探す）
+* #24 Nomoj sur Biblioteko Eldona Karto（貸し出しカードでの名前）
+* #25 Provludo（リハーサル）
+* #26 Propono de Studsesio（勉強会の提案）
+* #27 Studsesio（勉強会）
+* #28 Matematika Modelo de Amo（恋愛感情の数理モデル）
+* #29 Ĵaluzo de Bradley（ブラドリーへの嫉妬）
+* #30 Ilia Sugesto（彼らの建議）
+* #31 Al Regiona Ĉampioneco（地区大会へ）
+* #32 Tiam, Somero komenciĝas.（そして、夏が始まる。）
 
 ### 三章 失ったものを探すドロシー
 
