@@ -37,7 +37,7 @@
 * #02 Kasedo en Memoro（記憶の中のカセット）
 * #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）
 * #04 Letero de «Princino»（『姫』からの手紙）
-* 
+* ……
 * Joe Bradley (Gregory Peck)
 * ~~#09 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）~~
 * ~~La Ruĝa kaj la Blanka（紅と白）~~
