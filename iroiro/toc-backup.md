@@ -39,14 +39,24 @@
 * #04 Letero de «Princino»（『姫』からの手紙）
 * #05 Fianĉo（婚約者）
 * #06 Osteria Pelican（オステリア・ペリカン）
-* Translokado（引越し） 
+* #07 Librejo 2（書店２）
+* #08 Renkontiĝo kaj Vespermanĝo（面会と夕食）
+* #09 Preparado de Sporta Festivalo（体育祭の準備）
+* #10 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）
+* #11 Komparo kaj Analizo（比較と分析）
+* #12 Studa Sesio（勉強会）
+* #13 Matematika Modelo de Amo（恋愛感情の数理モデル）
+* #14 Post Mezperioda Testo（中間試験の後）
+* #15 Translokado（引越し） 
+* #16 En Studenta Konsilio 2（生徒会にて２）
+* 
 * ……
 * Joe Bradley (Gregory Peck)
-* ~~#09 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）~~
-* ~~La Ruĝa kaj la Blanka（紅と白）~~
+* 
 
 ### 三章 失ったものを探すドロシー
 
+* Tanabata Tornado（七夕の竜巻）
 * ……
 * Kadzho 1
 * Vizitanto 1
