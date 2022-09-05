@@ -33,6 +33,8 @@
 
 ### 二章 ロングバケーションを過すアン
 
+* #01 Peto al «Saffron»（『サフラン』への依頼）
+
 * ……
 * Joe Bradley (Gregory Peck)
 * ~~#16 Invito（誘い）~~
