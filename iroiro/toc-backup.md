@@ -37,6 +37,9 @@
 * #02 Kasedo en Memoro（記憶の中のカセット）
 * #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）
 * #04 Letero de «Princino»（『姫』からの手紙）
+* #05 Fianĉo（婚約者）
+* #06 Osteria Pelican（オステリア・ペリカン）
+* Translokado（引越し） 
 * ……
 * Joe Bradley (Gregory Peck)
 * ~~#09 Priskribu la Amon kiel la Formon de Vektora Integralo（恋愛感情をベクトル積分の形として説明する）~~
