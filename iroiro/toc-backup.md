@@ -34,6 +34,8 @@
 ### 二章 ロングバケーションを過すアン
 
 * #01 Peto al «Saffron»（『サフラン』への依頼）
+* #02 Kasedo en Memoro（記憶の中のカセット）
+* #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）
 * ……
 * Joe Bradley (Gregory Peck)
 * ~~#16 Invito（誘い）~~
