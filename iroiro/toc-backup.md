@@ -41,10 +41,10 @@
 * #06 Osteria Pelican（オステリア・ペリカン）<font color=red>（May.8, Sat）</font>
 * #07 Librejo 2（書店２）<font color=red>（May.9, Sun）</font>
 * #08 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
-* #09 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）<font color=red>（May.10, Mon）</font>
+* #09 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）<font color=red>（May.11, Tue）</font>
 * #10 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
 * #11 Komparo kaj Analizo（比較と分析）<font color=red>（May.12, Wed）</font>
-* #12 Post Mezperioda Testo（中間試験の後）<font color=red>（May.19, Wed）</font>
+* #12 Post Mezperioda Testo（中間試験の後）<font color=red>（May.21, Fri）</font>
 * #13 Translokado（引越し）<font color=red>（May.22, Sat）</font>
 * #14 En Studenta Konsilio 2（生徒会にて２）<font color=red>（May.24, Mon）</font>
 * #15 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）<font color=red>（May.25, Tue）</font>
@@ -70,23 +70,23 @@
 
 * Tanabata Tornado（七夕の竜巻）
 * ……
-* Kadzho 1
-* Vizitanto 1
-* Kadzho 2
-* Vizitanto 2
-* Voyaĝo de Fuĝo
-* shia Familio
+* Malliberejo 1（牢獄１）
+* Vizitanto（来訪者）
+* Malliberejo 2（牢獄２）
+* Voyaĝo de Fuĝo（逃避行）
+* Ŝia Familioj（彼女の家族）
 * ……
-* Naskidzhtago
-* kion shi havas sed mi ne havas
-* Elmeto
-* Vero kaj Falso (Shirley Temple & Judy Garland)
-* "super la Tchielarko"
+* Naskiĝtago（誕生日）
+* Kion ŝi havas estas tio, kion mi ne havas.（彼女にはあるもの、それはわたしにはないもの）
+* ……
+* Vero kaj Falso (Shirley Temple & Judy Garland)（本物と偽物）
+* "Super la Ĉielarko"（『虹の向こうに』）
+* Interludo: Ultrasona Foto（超音波写真）
 
 ### 四章 ソーンフィールド邸と向き合うジェーン
 
 * **Thornfield: Enkonduko**（ソーンフィールド：起）
-* Redzhino (Shizuku Asakura)（女王／朝倉しずく）
+* Reĝino (Shizuku Asakura)（女王／朝倉しずく）
 * Trompa Taktiko 1（チート的な策略１）
 * ……
 * ……
@@ -96,7 +96,7 @@
 * ……
 * **Thornfield: Klarigo**（ソーンフィールド：承）
 * Trompa Taktiko 2（チート的な策略２）
-* Studenta Konsilio（生徒会）
+* En Studenta Konsilio 3（生徒会にて）
 * Mistera Kajero（謎めいた日記）
 * Nombra Kodo（数字暗号）
 * ……
@@ -107,14 +107,14 @@
 * Fina Provludo（最終リハーサル）
 * «Ice melt into Tears.»（氷は雫に溶ける）
 * «Diamond burns into Flame.»（金剛石は炎に燃える）
-* la Tagon antaw la Lerneja Festo（文化祭前日）
 * Kie vi estas?（あなたはどこに行った？）
-* «La Rado de la Tagidzho» -Malespero-（《暁の車》：絶望）
-* Konĉerto Movado I. -Moderato-（協奏曲第一楽章：Moderato）
-* Konĉerto Movado II. -Adagio sostenuto-（協奏曲第二楽章：Adagio sostenuto）
-* Konĉerto Movado III. -Allegro scherzando-（協奏曲第三楽章：Allegro scherzando）
-* Biso. «La Rado de la Tagidzho» -Petrelo en Shtormo-（アンコール：《暁の車》：海燕は嵐の中）
+* Lia Elekto（彼の選択）
+* Movado I. -Moderato-（協奏曲第一楽章：Moderato）
+* Movado II. -Adagio sostenuto-（協奏曲第二楽章：Adagio sostenuto）
+* Movado III. -Allegro scherzando-（協奏曲第三楽章：Allegro scherzando）
+* Biso. -La Petrelo en la Ŝtormo-（アンコール：嵐の中の海燕）
 * Patrino kaj Filo (Rochester & Bertha)（母と子：ロチェスターとバーサ）
+* Rompo（決裂）
 * **Thornfield: Resumo**（ソーンフィールド：結）
 * Kiel Gefratoj (Joan & Olivia)（姉弟のように：ジョーンとオリヴィア）
 
