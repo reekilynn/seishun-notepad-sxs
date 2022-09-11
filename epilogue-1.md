@@ -1,4 +1,4 @@
-### Epilogo: Hejmo de Silento: «Éléphant de la Bastille».
+### Epilogo: Hejmo de Silento: «Éléphant de la Bastille»
 
 &emsp;
 
