@@ -1,4 +1,4 @@
-###  «Rochester and Bertha»
+### «Rochester and Bertha»
 
 &emsp;
 
@@ -149,6 +149,12 @@ side：しづく
 请您永远别在我的面前出现。”
 
 ***
+
+### Rompo
+
+&emsp;
+
+side：しづく
 
 名为“断绝关系”的<ruby><rb>祝福</rb><rt>诅咒</rt></ruby>。
 
