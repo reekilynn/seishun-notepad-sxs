@@ -1,3 +1,5 @@
+
+
 ## Enhavtabelo
 
 (Provizora Listo)
@@ -68,17 +70,29 @@
 
 ### 三章 失ったものを探すドロシー
 
-* Tanabata Tornado（七夕の竜巻）
+* #01 Tanabata Tornado（七夕の竜巻）
+* #02 Klarigo kaj Promeso（説明と約束）
+* ……
+* Naĝejo kun "Eks-amatino"+a（『元カノ』とのプール+a）
+* Kontraŭrimedoj de Alproksimiĝo（ナンパ対策）
+* ……
+* Partatempa Laboro en Preparlernejo（予備校のバイト）
+* Gantoj（手袋）
+* ……
+* Renkontiĝo kun "Eks-amatino"（『元カノ』とのデート）
+* "Ĉeno"（『鎖』）
+* Vespermanĝo kaj Lito（晩御飯と寝泊り）
+* Neatendita Renkonto（予期せぬ出会い）
 * ……
 * Malliberejo 1（牢獄１）
 * Vizitanto（来訪者）
 * Malliberejo 2（牢獄２）
 * Voyaĝo de Fuĝo（逃避行）
 * Ŝia Familioj（彼女の家族）
-* ……
+* Ekzisto kiu deflankiĝas de ordinaraj Homoj（常人を逸脱した存在）
 * Naskiĝtago（誕生日）
 * Kion ŝi havas estas tio, kion mi ne havas.（彼女にはあるもの、それはわたしにはないもの）
-* ……
+* Lia Respondo II（彼の返事 II）
 * Vero kaj Falso (Shirley Temple & Judy Garland)（本物と偽物）
 * "Super la Ĉielarko"（『虹の向こうに』）
 * Interludo: Ultrasona Foto（超音波写真）
