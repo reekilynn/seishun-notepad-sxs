@@ -36,14 +36,14 @@
 ### 二章 ロングバケーションを過すアン
 
 * #01 Peto al «Saffron»（『サフラン』への依頼）<font color=red>（May.6, Thu）</font>
-* #02 Kasedo en Memoro（記憶の中のカセット）<font color=red>（May.6, Thu）</font>
-* #03 Sergei Rachmaninoff（セルゲイ・ラフマニノフ）<font color=red>（May.6, Thu）</font>
-* #04 Letero de «Princino»（『姫』からの手紙）<font color=red>（May.7, Fri）</font>
-* #05 Fianĉo（婚約者）<font color=red>（May.7, Fri）</font>
-* #06 Osteria Pelican（オステリア・ペリカン）<font color=red>（May.8, Sat）</font>
-* #07 Librejo 2（書店２）<font color=red>（May.9, Sun）</font>
-* #08 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
-* #09 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）<font color=red>（May.11, Tue）</font>
+* #02 De la Kasedo en Memoro al Sergei Rachmaninoff（記憶の中のカセットからラフマニノフへ）<font color=red>（May.6, Thu）</font>
+* #03 Letero de «Princino»（『姫』からの手紙）<font color=red>（May.7, Fri）</font>
+* #04 Fianĉo（婚約者）<font color=red>（May.7, Fri）</font>
+* #05 Osteria Pelican（オステリア・ペリカン）<font color=red>（May.8, Sat）</font>
+* #06 Librejo 2（書店２）<font color=red>（May.9, Sun）</font>
+* #07 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
+* #08 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）<font color=red>（May.11, Tue）</font>
+* #09 Elmeto（暴露）<font color=red>（May.11, Tue）</font>
 * #10 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
 * #11 Komparo kaj Analizo（比較と分析）<font color=red>（May.12, Wed）</font>
 * #12 Post Mezperioda Testo（中間試験の後）<font color=red>（May.21, Fri）</font>
@@ -53,7 +53,7 @@
 * #16 Sporta Festivalo（運動会）<font color=red>（May.29, Sat）</font>
 * #17 Finpartio（打ち上げパーティー）<font color=red>（May.30, Sun）</font>
 * #18 Lumo（ひかり）<font color=red>（May.30, Sun）</font>
-* #19 "Polovtsiana Danco"（『韃靼人踊』）<font color=red>（Jun.1, Tue）</font>
+* #19 "En la Stepoj de Mezazio"（『中央アジアの草原にて』）<font color=red>（Jun.1, Tue）</font>
 * #20 Pluvo, kaj Invito de Dato（雨、そしてデートのお誘い）<font color=red>（Jun.4, Fri）</font>
 * #21 Botanika Ĝardeno（植物園）<font color=red>（Jun.5, Sat）</font>
 * #22 Ĝemeloj（双子）<font color=red>（Jun.5, Sat）</font>
@@ -65,7 +65,7 @@
 * #28 Matematika Modelo de Amo（恋愛感情の数理モデル）<font color=red>（Jun.12, Sat）</font>
 * #29 Ĵaluzo de Bradley（ブラドリーへの嫉妬）<font color=red>（Jun.13, Sun）</font>
 * #30 Ilia Sugesto（彼らの建議）<font color=red>（Jun.13, Sun）</font>
-* #31 Al Regiona Ĉampioneco（地区大会へ）<font color=red>（Jun.17-25, Thu-Fri）</font>
+* #31 Al Someraj Prezentado（夏の公演へ）<font color=red>（Jun.17-25, Thu-Fri）</font>
 * #32 Tiam, Somero komenciĝas.（そして、夏が始まる。）<font color=red>（Jun.26-27, Sat-Sun）</font>
 
 ### 三章 失ったものを探すドロシー
