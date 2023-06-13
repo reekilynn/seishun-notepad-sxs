@@ -1,3 +1,5 @@
+### No. I'm not longing for such a happiness.
+
 ——我做了一个荒唐无稽的梦。
 
 一个蹲在卧室里的小男孩正在哭泣。
