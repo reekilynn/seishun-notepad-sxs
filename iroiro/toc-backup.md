@@ -72,6 +72,42 @@
 
 * #01 Tanabata Tornado（七夕の竜巻）
 * #02 Klarigo kaj Promeso（説明と約束）
+* #03 Someraj Ferio（夏休み）
+* #04 Preparlernejo 1（予備校1）
+* #05 Partatempa Laboro en Preparlernejo（予備校のバイト）
+* #06 Profesoro Volinskij（ヴォルィーンシキー教授）
+* #07 Preparlernejo 2 (予備校2)
+* #08 La Sekva Partatempa Laboro（次のバイト）
+* #09 Praktiko 1（練習1）
+* #10 Renkontiĝo kun "Eks-amatino"（『元カノ』とのデート）
+* #11 Elektante naĝkostumojn（水着選び）
+* #12 Gantoj（手袋）
+* #13 Naĝejo（プール）
+* #14 Kontraŭrimedoj de Alproksimiĝo（ナンパ対策）
+* #15 Ijobo de sinjoro Kudou（工藤さんからの仕事）
+* #16 Falso kaj Vero（偽装と真相）
+* #17 Naskiĝtago（誕生日）
+* #18 Kion ŝi havas estas tio, kion mi ne havas.（彼女にはあるもの、それはわたしにはないもの）
+* #19 Praktiko 2（練習2）
+* #20 Neatendita Renkonto（予期せぬ出会い）
+* #21 Kashiwabara Kotomi（柏原琴美）
+* #22 "Ĉeno"（『鎖』）
+* #23 Malliberejo 1（牢獄１）
+* #24 Malliberejo 2（牢獄２）
+* #25 Voyaĝo de Fuĝo（逃避行）
+* #26 Ŝia Familioj（彼女の家族）
+* #27 Maĥongo（麻雀）
+* #28 Ekzisto kiu deflankiĝas de ordinaraj Homoj（常人を逸脱した存在）
+* #29 Somera Festivalo（夏祭）
+* #30 Lia Respondo II（彼の返事 II）
+* #31 "Super la Ĉielarko"（『虹の向こうに』）
+
+***
+
+original:
+
+* #01 Tanabata Tornado（七夕の竜巻）
+* #02 Klarigo kaj Promeso（説明と約束）
 * ……
 * Naĝejo kun "Eks-amatino"+a（『元カノ』とのプール+a）
 * Kontraŭrimedoj de Alproksimiĝo（ナンパ対策）
