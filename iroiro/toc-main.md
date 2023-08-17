@@ -28,3 +28,12 @@
 * #23 Lia Respondo（彼の返事）
 * #24 La Komenco kun mia Amanto（わたしの恋人との、新しい始まり）
 * Karakteraj Informoj kaj Postskribo de Ĉapitro.01（一章時点でのキャラ紹介＆一章あとがき）
+
+### Ĉapitro.02 ロングバケーションを過すアン
+
+* #01 Peto al «Saffron»（『サフラン』への依頼）
+* #02 De la Kasedo en Memoro al Sergei Rachmaninoff（記憶の中のカセットからラフマニノフへ）
+* #03 Letero de «Princino»（『姫』からの手紙）
+* #04 Osteria Pelican（オステリア・ペリカン）
+* #05 Historia Atlaso（歴史地図集）
+* #06 Renkontiĝo kaj Vespermanĝo（面会と夕食）
