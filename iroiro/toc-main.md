@@ -37,3 +37,5 @@
 * #04 Osteria Pelican（オステリア・ペリカン）
 * #05 Historia Atlaso（歴史地図集）
 * #06 Renkontiĝo kaj Vespermanĝo（面会と夕食）
+* #07 En Studenta Konsilio 2（生徒会にて２）
+* #08 Preparado de Sporta Festivalo（運動会の準備）
