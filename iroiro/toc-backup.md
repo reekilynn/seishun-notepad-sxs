@@ -1,5 +1,3 @@
-
-
 ## Enhavtabelo
 
 (Provizora Listo)
@@ -38,16 +36,44 @@
 * #01 Peto al «Saffron»（『サフラン』への依頼）<font color=red>（May.6, Thu）</font>
 * #02 De la Kasedo en Memoro al Sergei Rachmaninoff（記憶の中のカセットからラフマニノフへ）<font color=red>（May.6, Thu）</font>
 * #03 Letero de «Princino»（『姫』からの手紙）<font color=red>（May.7, Fri）</font>
+* #04 Osteria Pelican（オステリア・ペリカン）<font color=red>（May.8, Sat）</font>
+* #05 Historia Atlaso（歴史地図集）<font color=red>（May.9, Sun）</font>
+* #06 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
+* #07 En Studenta Konsilio 2（生徒会にて２）<font color=red>（May.10, Mon）</font>
+* #08 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
+
+***
+
+* #09 Kamparo kaj Analizo（比較と分析）
+* #10 Post Mezperioda Testo（中間試験の後）
+* #11 «La Studenta Prezidanto en Nigra»（『黒の生徒会長』）
+* #12 Ekspozicio ĉe la sporta festivalo（体育祭での暴露）
+* #13 Kadavromanĝanto-ĉaso kaj Stafetado（借り物競走とリレー）
+* #14 Finpartio（打ち上げパーティー）
+* #15 Lumo（ひかり）
+* #16 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）
+* #17 Spurante la Partituron por trovi kio mankas（楽譜をなぞって足りないものを探す）
+* #18 Nomoj sur Biblioteko Eldona Karto（貸し出しカードでの名前）
+* #19 Pluvo, kaj Invito de Dato（雨、そしてデートのお誘い）
+* #20 Botanika Ĝardeno（植物園）
+* #21 Ĝemeloj（双子）
+* #22 Provludo（リハーサル）
+* #23 Propono de Studsesio（勉強会の提案）
+* #24 Studsesio（勉強会）
+* #25 Matematika Modelo de Amo（恋愛感情の数理モデル）
+* #26 Ĵaluzo de Bradley（ブラドリーへの嫉妬）
+* #27 Al Someraj Prezentado（夏の公演へ）
+* #28 Tiam, Somero komenciĝas.（そして、夏が始まる。）
+
+***
+
+original:
+
 * #04 Fianĉo（婚約者）<font color=red>（May.7, Fri）</font>
-* #05 Osteria Pelican（オステリア・ペリカン）<font color=red>（May.8, Sat）</font>
-* #06 Librejo 2（書店２）<font color=red>（May.9, Sun）</font>
-* #07 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
 * #08 S-ro. Tachibana kaj Orkestra Klubo（立花先生とオーケストラ部）<font color=red>（May.11, Tue）</font>
-* #09 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
 * #10 Komparo kaj Analizo（比較と分析）<font color=red>（May.12, Wed）</font>
 * #11 Post Mezperioda Testo（中間試験の後）<font color=red>（May.21, Fri）</font>
 * #12 Translokado（引越し）<font color=red>（May.22, Sat）</font>
-* #13 En Studenta Konsilio 2（生徒会にて２）<font color=red>（May.24, Mon）</font>
 * #14 "La Studenta Prezidanto en Nigra"（『黒の生徒会長』）<font color=red>（May.25, Tue）</font>
 * #15 Sporta Festivalo（運動会）<font color=red>（May.29, Sat）</font>
 * #16 Elmeto（暴露）<font color=red>（May.29, Sat）</font>
@@ -67,6 +93,8 @@
 * #30 Ilia Sugesto（彼らの建議）<font color=red>（Jun.13, Sun）</font>
 * #31 Al Someraj Prezentado（夏の公演へ）<font color=red>（Jun.17-25, Thu-Fri）</font>
 * #32 Tiam, Somero komenciĝas.（そして、夏が始まる。）<font color=red>（Jun.26-27, Sat-Sun）</font>
+
+***
 
 ### 三章 失ったものを探すドロシー
 
