@@ -41,10 +41,11 @@
 * #06 Renkontiĝo kaj Vespermanĝo（面会と夕食）<font color=red>（May.9, Sun）</font>
 * #07 En Studenta Konsilio 2（生徒会にて２）<font color=red>（May.10, Mon）</font>
 * #08 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
+* #09 Studsesio por Du（二人きりの勉強会）<font color=red>（May.15, Sat）</font>
+* #10 Post Mezperioda Testo（中間試験の後）<font color=red>（May.21, Fri）</font>
 
 ***
 
-* #09 Kamparo kaj Analizo（比較と分析）
 * #10 Post Mezperioda Testo（中間試験の後）
 * #11 «La Studenta Prezidanto en Nigra»（『黒の生徒会長』）
 * #12 Ekspozicio ĉe la sporta festivalo（体育祭での暴露）
