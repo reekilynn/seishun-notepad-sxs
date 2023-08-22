@@ -43,11 +43,10 @@
 * #08 Preparado de Sporta Festivalo（運動会の準備）<font color=red>（May.12, Wed）</font>
 * #09 Studsesio por Du（二人きりの勉強会）<font color=red>（May.15, Sat）</font>
 * #10 Post Mezperioda Testo（中間試験の後）<font color=red>（May.21, Fri）</font>
+* #11 «La Studenta Prezidanto en Nigra»（『黒の生徒会長』）<font color=red>（May.21, Fri）</font>
 
 ***
 
-* #10 Post Mezperioda Testo（中間試験の後）
-* #11 «La Studenta Prezidanto en Nigra»（『黒の生徒会長』）
 * #12 Ekspozicio ĉe la sporta festivalo（体育祭での暴露）
 * #13 Kadavromanĝanto-ĉaso kaj Stafetado（借り物競走とリレー）
 * #14 Finpartio（打ち上げパーティー）
