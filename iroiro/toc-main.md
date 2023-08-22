@@ -39,3 +39,6 @@
 * #06 Renkontiĝo kaj Vespermanĝo（面会と夕食）
 * #07 En Studenta Konsilio 2（生徒会にて２）
 * #08 Preparado de Sporta Festivalo（運動会の準備）
+* #09 Studsesio por Du（二人きりの勉強会）
+* #10 Post Mezperioda Testo（中間試験の後）
+* #11 «La Studenta Prezidanto en Nigra»（『黒の生徒会長』）
