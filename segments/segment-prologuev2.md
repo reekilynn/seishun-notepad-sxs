@@ -1,6 +1,6 @@
 ### Prologue 人生の頂点から失墜する
 
-「……<ruby>我们对来自TCGA等多个数据库的基因组测序样本进行了突变分析。结果显示，在胶质瘤患者中，40岁以下的患者——也就是青春期和年轻人群体的体细胞突变图谱和40岁以上的成年人之间存在明显的差异<rt>We performed a mutation analysis of samples collected from multiple databases including TCGA. The results showed that glioma patients below 40, a.k.a. adolescent and young adults have significant difference from adult patients above 40</rt></ruby>……」
+「……<ruby>我们对来自TCGA等多个数据库的基因组测序样本进行了突变分析。结果显示，在胶质瘤患者中，40岁以下的患者——也就是青春期和年轻人群体的体细胞突变图谱和40岁以上的成年人之间存在明显的差异<rt>We performed a mutation analysis of samples collected from multiple databases including TCGA. The results showed that mutation profiles of glioma patients below 40, a.k.a. adolescent and young adults have significant difference from adult patients above 40</rt></ruby>……」
 
 美国得克萨斯州，休斯顿。
 
